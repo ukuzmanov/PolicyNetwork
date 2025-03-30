@@ -1,856 +1,2621 @@
-var networks = {"Policy_Network_v0_edgelist.txt": {
+var networks = {"Policy_Network_v1_edgelist.csv": {
   "format_version" : "1.0",
   "generated_by" : "cytoscape-3.10.1",
   "target_cytoscapejs_version" : "~2.1",
   "data" : {
-    "shared_name" : "Policy_Network_v0_edgelist.txt",
-    "name" : "Policy_Network_v0_edgelist.txt",
-    "SUID" : 159,
+    "shared_name" : "Policy_Network_v1_edgelist.csv",
+    "name" : "Policy_Network_v1_edgelist.csv",
+    "SUID" : 197482,
     "__Annotations" : [ ],
     "selected" : true
   },
   "elements" : {
     "nodes" : [ {
       "data" : {
-        "id" : "298",
-        "ClosenessCentrality" : 0.0,
-        "Eccentricity" : 0,
-        "Outdegree" : 0,
-        "PartnerOfMultiEdgedNodePairs" : 0,
-        "ClusteringCoefficient" : 0.0,
-        "Stress" : 0,
-        "shared_name" : "Vendor_Access",
-        "BetweennessCentrality" : 0.0,
-        "EdgeCount" : 1,
-        "Indegree" : 1,
-        "name" : "Vendor_Access",
-        "SelfLoops" : 0,
-        "SUID" : 298,
-        "IsSingleNode" : false,
-        "AverageShortestPathLength" : 0.0,
-        "selected" : false,
-        "NeighborhoodConnectivity" : 4.0
-      },
-      "position" : {
-        "x" : -290.41407109471237,
-        "y" : -135.82836074346025
-      },
-      "selected" : false
-    }, {
-      "data" : {
-        "id" : "293",
-        "ClosenessCentrality" : 0.0,
-        "Eccentricity" : 0,
-        "Outdegree" : 0,
-        "PartnerOfMultiEdgedNodePairs" : 0,
-        "ClusteringCoefficient" : 0.0,
-        "Stress" : 0,
-        "shared_name" : "Pt_Access_to_Medical_Records",
-        "BetweennessCentrality" : 0.0,
-        "EdgeCount" : 1,
-        "Indegree" : 1,
-        "name" : "Pt_Access_to_Medical_Records",
-        "SelfLoops" : 0,
-        "SUID" : 293,
-        "IsSingleNode" : false,
-        "AverageShortestPathLength" : 0.0,
-        "selected" : false,
-        "NeighborhoodConnectivity" : 4.0
-      },
-      "position" : {
-        "x" : -246.87015399600335,
-        "y" : -201.86412331281056
-      },
-      "selected" : false
-    }, {
-      "data" : {
-        "id" : "288",
-        "ClosenessCentrality" : 0.0,
-        "Eccentricity" : 0,
-        "Outdegree" : 0,
-        "PartnerOfMultiEdgedNodePairs" : 0,
-        "ClusteringCoefficient" : 0.0,
-        "Stress" : 0,
-        "shared_name" : "Patient_Compliments_._Complaints",
-        "BetweennessCentrality" : 0.0,
-        "EdgeCount" : 1,
-        "Indegree" : 1,
-        "name" : "Patient_Compliments_._Complaints",
-        "SelfLoops" : 0,
-        "SUID" : 288,
-        "IsSingleNode" : false,
-        "AverageShortestPathLength" : 0.0,
-        "selected" : false,
-        "NeighborhoodConnectivity" : 6.0
-      },
-      "position" : {
-        "x" : -124.14224721165573,
-        "y" : -176.14733047002275
-      },
-      "selected" : false
-    }, {
-      "data" : {
-        "id" : "283",
-        "ClosenessCentrality" : 0.0,
-        "Eccentricity" : 0,
-        "Outdegree" : 0,
-        "PartnerOfMultiEdgedNodePairs" : 0,
-        "ClusteringCoefficient" : 0.0,
-        "Stress" : 0,
-        "shared_name" : "Incident_Reporting_._Review",
-        "BetweennessCentrality" : 0.0,
-        "EdgeCount" : 1,
-        "Indegree" : 1,
-        "name" : "Incident_Reporting_._Review",
-        "SelfLoops" : 0,
-        "SUID" : 283,
-        "IsSingleNode" : false,
-        "AverageShortestPathLength" : 0.0,
-        "selected" : false,
-        "NeighborhoodConnectivity" : 6.0
-      },
-      "position" : {
-        "x" : -45.17617894383346,
-        "y" : -146.6834022473665
-      },
-      "selected" : false
-    }, {
-      "data" : {
-        "id" : "269",
-        "ClosenessCentrality" : 0.0,
-        "Eccentricity" : 0,
-        "Outdegree" : 0,
-        "PartnerOfMultiEdgedNodePairs" : 0,
-        "ClusteringCoefficient" : 0.5,
-        "Stress" : 0,
-        "shared_name" : "Accommodation_for_Person_with_Disabilties",
-        "BetweennessCentrality" : 0.0,
-        "EdgeCount" : 2,
-        "Indegree" : 2,
-        "name" : "Accommodation_for_Person_with_Disabilties",
-        "SelfLoops" : 0,
-        "SUID" : 269,
-        "IsSingleNode" : false,
-        "AverageShortestPathLength" : 0.0,
-        "selected" : false,
-        "NeighborhoodConnectivity" : 4.5
-      },
-      "position" : {
-        "x" : -252.33445836277878,
-        "y" : -13.227956004080369
-      },
-      "selected" : false
-    }, {
-      "data" : {
-        "id" : "261",
-        "ClosenessCentrality" : 0.0,
-        "Eccentricity" : 0,
-        "Outdegree" : 0,
-        "PartnerOfMultiEdgedNodePairs" : 0,
-        "ClusteringCoefficient" : 0.0,
-        "Stress" : 0,
-        "shared_name" : "Sactions_for_Privacy_Breach",
-        "BetweennessCentrality" : 0.0,
-        "EdgeCount" : 2,
-        "Indegree" : 2,
-        "name" : "Sactions_for_Privacy_Breach",
-        "SelfLoops" : 0,
-        "SUID" : 261,
-        "IsSingleNode" : false,
-        "AverageShortestPathLength" : 0.0,
-        "selected" : false,
-        "NeighborhoodConnectivity" : 4.0
-      },
-      "position" : {
-        "x" : -144.81525517674362,
-        "y" : 30.41843586451094
-      },
-      "selected" : false
-    }, {
-      "data" : {
-        "id" : "253",
-        "ClosenessCentrality" : 0.0,
-        "Eccentricity" : 0,
-        "Outdegree" : 0,
-        "PartnerOfMultiEdgedNodePairs" : 0,
-        "ClusteringCoefficient" : 0.5,
-        "Stress" : 0,
-        "shared_name" : "Personal_Information_Protection",
-        "BetweennessCentrality" : 0.0,
-        "EdgeCount" : 2,
-        "Indegree" : 2,
-        "name" : "Personal_Information_Protection",
-        "SelfLoops" : 0,
-        "SUID" : 253,
-        "IsSingleNode" : false,
-        "AverageShortestPathLength" : 0.0,
-        "selected" : false,
-        "NeighborhoodConnectivity" : 4.0
-      },
-      "position" : {
-        "x" : -60.86354924412643,
-        "y" : 271.1917808581022
-      },
-      "selected" : false
-    }, {
-      "data" : {
-        "id" : "248",
-        "ClosenessCentrality" : 1.0,
-        "Eccentricity" : 1,
-        "Outdegree" : 3,
-        "PartnerOfMultiEdgedNodePairs" : 0,
-        "ClusteringCoefficient" : 0.0,
-        "Stress" : 45,
-        "shared_name" : "Privacy",
-        "BetweennessCentrality" : 0.16544117647058823,
-        "EdgeCount" : 4,
-        "Indegree" : 1,
-        "name" : "Privacy",
-        "SelfLoops" : 0,
-        "SUID" : 248,
-        "IsSingleNode" : false,
-        "AverageShortestPathLength" : 1.0,
-        "selected" : false,
-        "NeighborhoodConnectivity" : 2.0
-      },
-      "position" : {
-        "x" : -170.374823581895,
-        "y" : -101.41708297246416
-      },
-      "selected" : false
-    }, {
-      "data" : {
-        "id" : "243",
-        "ClosenessCentrality" : 0.0,
-        "Eccentricity" : 0,
-        "Outdegree" : 0,
-        "PartnerOfMultiEdgedNodePairs" : 0,
-        "ClusteringCoefficient" : 0.0,
-        "Stress" : 0,
-        "shared_name" : "Whistleblower",
-        "BetweennessCentrality" : 0.0,
-        "EdgeCount" : 1,
-        "Indegree" : 1,
-        "name" : "Whistleblower",
-        "SelfLoops" : 0,
-        "SUID" : 243,
-        "IsSingleNode" : false,
-        "AverageShortestPathLength" : 0.0,
-        "selected" : false,
-        "NeighborhoodConnectivity" : 7.0
-      },
-      "position" : {
-        "x" : -58.30451298924362,
-        "y" : 197.1752403307585
-      },
-      "selected" : false
-    }, {
-      "data" : {
-        "id" : "238",
-        "ClosenessCentrality" : 0.46153846153846156,
-        "Eccentricity" : 3,
-        "Outdegree" : 2,
-        "PartnerOfMultiEdgedNodePairs" : 0,
-        "ClusteringCoefficient" : 0.5,
-        "Stress" : 0,
-        "shared_name" : "Incident_Reporting_&_Review",
-        "BetweennessCentrality" : 0.0,
-        "EdgeCount" : 2,
-        "Indegree" : 0,
-        "name" : "Incident_Reporting_&_Review",
-        "SelfLoops" : 0,
-        "SUID" : 238,
-        "IsSingleNode" : false,
-        "AverageShortestPathLength" : 2.1666666666666665,
-        "selected" : false,
-        "NeighborhoodConnectivity" : 4.0
-      },
-      "position" : {
-        "x" : 99.32409571436966,
-        "y" : -47.750434107718064
-      },
-      "selected" : false
-    }, {
-      "data" : {
-        "id" : "233",
-        "ClosenessCentrality" : 0.625,
-        "Eccentricity" : 2,
-        "Outdegree" : 2,
-        "PartnerOfMultiEdgedNodePairs" : 0,
-        "ClusteringCoefficient" : 0.08333333333333333,
-        "Stress" : 43,
-        "shared_name" : "Incident_reporting_and_Investigations",
-        "BetweennessCentrality" : 0.1525735294117647,
-        "EdgeCount" : 4,
-        "Indegree" : 2,
-        "name" : "Incident_reporting_and_Investigations",
-        "SelfLoops" : 0,
-        "SUID" : 233,
-        "IsSingleNode" : false,
-        "AverageShortestPathLength" : 1.6,
-        "selected" : false,
-        "NeighborhoodConnectivity" : 4.0
-      },
-      "position" : {
-        "x" : -26.587983143052213,
-        "y" : -54.91348189824541
-      },
-      "selected" : false
-    }, {
-      "data" : {
-        "id" : "225",
-        "ClosenessCentrality" : 0.0,
-        "Eccentricity" : 0,
-        "Outdegree" : 0,
-        "PartnerOfMultiEdgedNodePairs" : 0,
-        "ClusteringCoefficient" : 0.16666666666666666,
-        "Stress" : 0,
-        "shared_name" : "Violence_and_Domestic_Violence",
-        "BetweennessCentrality" : 0.0,
-        "EdgeCount" : 4,
-        "Indegree" : 4,
-        "name" : "Violence_and_Domestic_Violence",
-        "SelfLoops" : 0,
-        "SUID" : 225,
-        "IsSingleNode" : false,
-        "AverageShortestPathLength" : 0.0,
-        "selected" : false,
-        "NeighborhoodConnectivity" : 4.25
-      },
-      "position" : {
-        "x" : 46.299880016127474,
-        "y" : 58.133354954781936
-      },
-      "selected" : false
-    }, {
-      "data" : {
-        "id" : "217",
-        "ClosenessCentrality" : 1.0,
-        "Eccentricity" : 1,
-        "Outdegree" : 2,
-        "PartnerOfMultiEdgedNodePairs" : 0,
-        "ClusteringCoefficient" : 0.25,
-        "Stress" : 52,
-        "shared_name" : "Gender_Identity",
-        "BetweennessCentrality" : 0.16544117647058823,
-        "EdgeCount" : 4,
-        "Indegree" : 2,
-        "name" : "Gender_Identity",
-        "SelfLoops" : 0,
-        "SUID" : 217,
-        "IsSingleNode" : false,
-        "AverageShortestPathLength" : 1.0,
-        "selected" : false,
-        "NeighborhoodConnectivity" : 4.25
-      },
-      "position" : {
-        "x" : 0.8799886587055994,
-        "y" : 165.74341660028975
-      },
-      "selected" : false
-    }, {
-      "data" : {
-        "id" : "209",
-        "ClosenessCentrality" : 0.5,
-        "Eccentricity" : 3,
-        "Outdegree" : 1,
-        "PartnerOfMultiEdgedNodePairs" : 0,
-        "ClusteringCoefficient" : 0.0,
-        "Stress" : 0,
-        "shared_name" : "Approprite_use_of_IT",
-        "BetweennessCentrality" : 0.0,
-        "EdgeCount" : 1,
-        "Indegree" : 0,
-        "name" : "Approprite_use_of_IT",
-        "SelfLoops" : 0,
-        "SUID" : 209,
-        "IsSingleNode" : false,
-        "AverageShortestPathLength" : 2.0,
-        "selected" : false,
-        "NeighborhoodConnectivity" : 7.0
-      },
-      "position" : {
-        "x" : 26.89591883448685,
-        "y" : 2.4407737780241234
-      },
-      "selected" : false
-    }, {
-      "data" : {
-        "id" : "204",
-        "ClosenessCentrality" : 0.52,
-        "Eccentricity" : 3,
-        "Outdegree" : 5,
-        "PartnerOfMultiEdgedNodePairs" : 0,
-        "ClusteringCoefficient" : 0.06666666666666667,
-        "Stress" : 42,
-        "shared_name" : "Accessibility_for_People_with_Disabilities",
-        "BetweennessCentrality" : 0.15441176470588236,
-        "EdgeCount" : 6,
-        "Indegree" : 1,
-        "name" : "Accessibility_for_People_with_Disabilities",
-        "SelfLoops" : 0,
-        "SUID" : 204,
-        "IsSingleNode" : false,
-        "AverageShortestPathLength" : 1.9230769230769231,
-        "selected" : false,
-        "NeighborhoodConnectivity" : 3.0
-      },
-      "position" : {
-        "x" : -129.8983316537944,
-        "y" : -46.11474914067705
-      },
-      "selected" : false
-    }, {
-      "data" : {
-        "id" : "199",
-        "ClosenessCentrality" : 0.42424242424242425,
+        "id" : "197804",
+        "ClosenessCentrality" : 0.40869565217391307,
         "Eccentricity" : 4,
-        "Outdegree" : 3,
+        "Degree" : 5,
         "PartnerOfMultiEdgedNodePairs" : 0,
-        "ClusteringCoefficient" : 0.3333333333333333,
-        "Stress" : 0,
-        "shared_name" : "Accesibility_Standards_Regulations",
-        "BetweennessCentrality" : 0.0,
-        "EdgeCount" : 3,
-        "Indegree" : 0,
-        "name" : "Accesibility_Standards_Regulations",
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.8684719535783365,
+        "Stress" : 710,
+        "TopologicalCoefficient" : 0.28,
+        "shared_name" : "Pt Safety Event Reporting",
+        "BetweennessCentrality" : 0.10520331503217718,
+        "NumberOfUndirectedEdges" : 5,
+        "name" : "Pt Safety Event Reporting",
         "SelfLoops" : 0,
-        "SUID" : 199,
+        "SUID" : 197804,
         "IsSingleNode" : false,
-        "AverageShortestPathLength" : 2.357142857142857,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 2.4468085106382977,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 6.6
+      },
+      "position" : {
+        "x" : -297.43449572606437,
+        "y" : -176.33233743727772
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197799",
+        "ClosenessCentrality" : 0.33571428571428574,
+        "Eccentricity" : 6,
+        "Degree" : 2,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.8201160541586073,
+        "Stress" : 154,
+        "TopologicalCoefficient" : 0.6666666666666666,
+        "shared_name" : "Vendor in Clinical Areas",
+        "BetweennessCentrality" : 0.007183804477976542,
+        "NumberOfUndirectedEdges" : 2,
+        "name" : "Vendor in Clinical Areas",
+        "SelfLoops" : 0,
+        "SUID" : 197799,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 2.978723404255319,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 11.0
+      },
+      "position" : {
+        "x" : 109.17346020655282,
+        "y" : -68.3814554792699
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197794",
+        "ClosenessCentrality" : 0.33571428571428574,
+        "Eccentricity" : 6,
+        "Degree" : 2,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.8201160541586073,
+        "Stress" : 154,
+        "TopologicalCoefficient" : 0.6666666666666666,
+        "shared_name" : "Remote Observation",
+        "BetweennessCentrality" : 0.007183804477976542,
+        "NumberOfUndirectedEdges" : 2,
+        "name" : "Remote Observation",
+        "SelfLoops" : 0,
+        "SUID" : 197794,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 2.978723404255319,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 11.0
+      },
+      "position" : {
+        "x" : -372.15052966161124,
+        "y" : -23.673401890402715
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197789",
+        "ClosenessCentrality" : 0.2748538011695907,
+        "Eccentricity" : 6,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.7601547388781431,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "Requirments for Informed Consent",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "Requirments for Informed Consent",
+        "SelfLoops" : 0,
+        "SUID" : 197789,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.6382978723404253,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 11.0
+      },
+      "position" : {
+        "x" : 37.52735730127938,
+        "y" : -306.66933542311756
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197784",
+        "ClosenessCentrality" : 0.2748538011695907,
+        "Eccentricity" : 6,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.7601547388781431,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "Procurement",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "Procurement",
+        "SelfLoops" : 0,
+        "SUID" : 197784,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.6382978723404253,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 11.0
+      },
+      "position" : {
+        "x" : -377.23744372411124,
+        "y" : -221.20045572341053
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197779",
+        "ClosenessCentrality" : 0.33571428571428574,
+        "Eccentricity" : 6,
+        "Degree" : 2,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.8201160541586073,
+        "Stress" : 154,
+        "TopologicalCoefficient" : 0.6666666666666666,
+        "shared_name" : "Vendor Access",
+        "BetweennessCentrality" : 0.007183804477976542,
+        "NumberOfUndirectedEdges" : 2,
+        "name" : "Vendor Access",
+        "SelfLoops" : 0,
+        "SUID" : 197779,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 2.978723404255319,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 11.0
+      },
+      "position" : {
+        "x" : 123.47868176417,
+        "y" : -158.7630472761449
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197768",
+        "ClosenessCentrality" : 0.27325581395348836,
+        "Eccentricity" : 6,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.758220502901354,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "Point.of.care",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "Point.of.care",
+        "SelfLoops" : 0,
+        "SUID" : 197768,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.6595744680851063,
         "selected" : false,
         "NeighborhoodConnectivity" : 5.0
       },
       "position" : {
-        "x" : -189.75197793217575,
-        "y" : 69.88022308832686
+        "x" : -177.3105562119042,
+        "y" : 328.86791891037853
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "189",
-        "ClosenessCentrality" : 0.8,
-        "Eccentricity" : 2,
-        "Outdegree" : 3,
+        "id" : "197751",
+        "ClosenessCentrality" : 0.3092105263157895,
+        "Eccentricity" : 5,
+        "Degree" : 3,
         "PartnerOfMultiEdgedNodePairs" : 0,
-        "ClusteringCoefficient" : 0.07142857142857142,
-        "Stress" : 136,
-        "shared_name" : "Fostering_Respect",
-        "BetweennessCentrality" : 0.46875,
-        "EdgeCount" : 7,
-        "Indegree" : 4,
-        "name" : "Fostering_Respect",
+        "ClusteringCoefficient" : 0.3333333333333333,
+        "Radiality" : 0.7969052224371374,
+        "Stress" : 52,
+        "TopologicalCoefficient" : 0.5833333333333334,
+        "shared_name" : "Reporting and Critical Injury",
+        "BetweennessCentrality" : 0.006868640148011101,
+        "NumberOfUndirectedEdges" : 3,
+        "name" : "Reporting and Critical Injury",
         "SelfLoops" : 0,
-        "SUID" : 189,
+        "SUID" : 197751,
         "IsSingleNode" : false,
-        "AverageShortestPathLength" : 1.25,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.234042553191489,
         "selected" : false,
-        "NeighborhoodConnectivity" : 3.2857142857142856
+        "NeighborhoodConnectivity" : 5.0
       },
       "position" : {
-        "x" : -66.54460240574753,
-        "y" : 73.91848831659834
+        "x" : -559.0747545151269,
+        "y" : -175.17913919509022
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "187",
-        "ClosenessCentrality" : 0.75,
-        "Eccentricity" : 2,
-        "Outdegree" : 4,
+        "id" : "196898",
+        "ClosenessCentrality" : 0.31333333333333335,
+        "Eccentricity" : 5,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.8007736943907156,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "Whistleblower",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "Whistleblower",
+        "SelfLoops" : 0,
+        "SUID" : 196898,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.1914893617021276,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 10.0
+      },
+      "position" : {
+        "x" : -348.78639391942374,
+        "y" : 136.90136617600353
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197727",
+        "ClosenessCentrality" : 0.38524590163934425,
+        "Eccentricity" : 4,
+        "Degree" : 5,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.2,
+        "Radiality" : 0.8549323017408124,
+        "Stress" : 362,
+        "TopologicalCoefficient" : 0.30526315789473685,
+        "shared_name" : "Violence and Domestic Violence",
+        "BetweennessCentrality" : 0.05827446528186584,
+        "NumberOfUndirectedEdges" : 5,
+        "name" : "Violence and Domestic Violence",
+        "SelfLoops" : 0,
+        "SUID" : 197727,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 2.595744680851064,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 6.0
+      },
+      "position" : {
+        "x" : -33.562482634023354,
+        "y" : -123.45716959059803
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197710",
+        "ClosenessCentrality" : 0.31333333333333335,
+        "Eccentricity" : 6,
+        "Degree" : 4,
         "PartnerOfMultiEdgedNodePairs" : 0,
         "ClusteringCoefficient" : 0.16666666666666666,
-        "Stress" : 0,
-        "shared_name" : "AR_ABR",
-        "BetweennessCentrality" : 0.0,
-        "EdgeCount" : 4,
-        "Indegree" : 0,
-        "name" : "AR_ABR",
+        "Radiality" : 0.8007736943907156,
+        "Stress" : 372,
+        "TopologicalCoefficient" : 0.3958333333333333,
+        "shared_name" : "External Observers",
+        "BetweennessCentrality" : 0.029633055812519273,
+        "NumberOfUndirectedEdges" : 4,
+        "name" : "External Observers",
         "SelfLoops" : 0,
-        "SUID" : 187,
+        "SUID" : 197710,
         "IsSingleNode" : false,
-        "AverageShortestPathLength" : 1.3333333333333333,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.1914893617021276,
         "selected" : false,
-        "NeighborhoodConnectivity" : 3.75
+        "NeighborhoodConnectivity" : 5.25
       },
       "position" : {
-        "x" : -119.56187154026901,
-        "y" : 162.77356796747725
+        "x" : 22.69507428125985,
+        "y" : 82.65823263108166
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197699",
+        "ClosenessCentrality" : 0.33571428571428574,
+        "Eccentricity" : 5,
+        "Degree" : 3,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.8201160541586073,
+        "Stress" : 522,
+        "TopologicalCoefficient" : 0.3611111111111111,
+        "shared_name" : "Escalation",
+        "BetweennessCentrality" : 0.12762873882207837,
+        "NumberOfUndirectedEdges" : 3,
+        "name" : "Escalation",
+        "SelfLoops" : 0,
+        "SUID" : 197699,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 2.978723404255319,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 5.333333333333333
+      },
+      "position" : {
+        "x" : -222.58114794774406,
+        "y" : -226.59119897902576
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197694",
+        "ClosenessCentrality" : 0.24736842105263157,
+        "Eccentricity" : 6,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.7234042553191489,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "Video Surveillance",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "Video Surveillance",
+        "SelfLoops" : 0,
+        "SUID" : 197694,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 4.042553191489362,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 3.0
+      },
+      "position" : {
+        "x" : -31.892099180654213,
+        "y" : 511.9124135392848
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197686",
+        "ClosenessCentrality" : 0.3263888888888889,
+        "Eccentricity" : 5,
+        "Degree" : 3,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.8123791102514507,
+        "Stress" : 230,
+        "TopologicalCoefficient" : 0.3333333333333333,
+        "shared_name" : "Electronic Monitoring",
+        "BetweennessCentrality" : 0.0523126734505088,
+        "NumberOfUndirectedEdges" : 3,
+        "name" : "Electronic Monitoring",
+        "SelfLoops" : 0,
+        "SUID" : 197686,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.0638297872340425,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 3.6666666666666665
+      },
+      "position" : {
+        "x" : -69.19838503880851,
+        "y" : 308.6207875627223
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197681",
+        "ClosenessCentrality" : 0.24352331606217614,
+        "Eccentricity" : 6,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.7176015473887815,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "Disclosure and Safety Events",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "Disclosure and Safety Events",
+        "SelfLoops" : 0,
+        "SUID" : 197681,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 4.1063829787234045,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 5.0
+      },
+      "position" : {
+        "x" : -155.0763719467675,
+        "y" : -305.08889585555164
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197676",
+        "ClosenessCentrality" : 0.2422680412371134,
+        "Eccentricity" : 7,
+        "Degree" : 2,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.7156673114119922,
+        "Stress" : 2,
+        "TopologicalCoefficient" : 1.0,
+        "shared_name" : "Intel Property",
+        "BetweennessCentrality" : 2.3126734505087883E-4,
+        "NumberOfUndirectedEdges" : 2,
+        "name" : "Intel Property",
+        "SelfLoops" : 0,
+        "SUID" : 197676,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 4.127659574468085,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 4.0
+      },
+      "position" : {
+        "x" : 189.97010632471688,
+        "y" : 302.4531850236598
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197668",
+        "ClosenessCentrality" : 0.3263888888888889,
+        "Eccentricity" : 6,
+        "Degree" : 4,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.5,
+        "Radiality" : 0.8123791102514507,
+        "Stress" : 106,
+        "TopologicalCoefficient" : 0.38333333333333336,
+        "shared_name" : "Release",
+        "BetweennessCentrality" : 0.007006299281969958,
+        "NumberOfUndirectedEdges" : 4,
+        "name" : "Release",
+        "SelfLoops" : 0,
+        "SUID" : 197668,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.0638297872340425,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 5.75
+      },
+      "position" : {
+        "x" : -26.1597230820214,
+        "y" : -331.9714975935277
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197663",
+        "ClosenessCentrality" : 0.31333333333333335,
+        "Eccentricity" : 6,
+        "Degree" : 4,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.16666666666666666,
+        "Radiality" : 0.8007736943907156,
+        "Stress" : 372,
+        "TopologicalCoefficient" : 0.3958333333333333,
+        "shared_name" : "Data Access S and U",
+        "BetweennessCentrality" : 0.029633055812519273,
+        "NumberOfUndirectedEdges" : 4,
+        "name" : "Data Access S and U",
+        "SelfLoops" : 0,
+        "SUID" : 197663,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.1914893617021276,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 5.25
+      },
+      "position" : {
+        "x" : -29.96981600804679,
+        "y" : 96.67288106858166
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197655",
+        "ClosenessCentrality" : 0.24607329842931938,
+        "Eccentricity" : 6,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.7214700193423598,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "Consent for use of email",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "Consent for use of email",
+        "SelfLoops" : 0,
+        "SUID" : 197655,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 4.0638297872340425,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 4.0
+      },
+      "position" : {
+        "x" : 247.76429577784188,
+        "y" : -272.1263285261449
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197650",
+        "ClosenessCentrality" : 0.27325581395348836,
+        "Eccentricity" : 6,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.758220502901354,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "Relationship Disclosure",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "Relationship Disclosure",
+        "SelfLoops" : 0,
+        "SUID" : 197650,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.6595744680851063,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 3.0
+      },
+      "position" : {
+        "x" : -529.782304563955,
+        "y" : -62.103882847433965
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197642",
+        "ClosenessCentrality" : 0.373015873015873,
+        "Eccentricity" : 5,
+        "Degree" : 3,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.8471953578336556,
+        "Stress" : 386,
+        "TopologicalCoefficient" : 0.3333333333333333,
+        "shared_name" : "COI",
+        "BetweennessCentrality" : 0.07748136846194201,
+        "NumberOfUndirectedEdges" : 3,
+        "name" : "COI",
+        "SelfLoops" : 0,
+        "SUID" : 197642,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 2.6808510638297873,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 7.333333333333333
+      },
+      "position" : {
+        "x" : -316.91530016942374,
+        "y" : -100.38113504469959
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197637",
+        "ClosenessCentrality" : 0.29936305732484075,
+        "Eccentricity" : 6,
+        "Degree" : 2,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.7872340425531914,
+        "Stress" : 52,
+        "TopologicalCoefficient" : 0.5,
+        "shared_name" : "Corrections",
+        "BetweennessCentrality" : 0.007957999447361148,
+        "NumberOfUndirectedEdges" : 2,
+        "name" : "Corrections",
+        "SelfLoops" : 0,
+        "SUID" : 197637,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3404255319148937,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 4.0
+      },
+      "position" : {
+        "x" : 56.56580944971688,
+        "y" : 241.71179098069103
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197632",
+        "ClosenessCentrality" : 0.34306569343065696,
+        "Eccentricity" : 6,
+        "Degree" : 4,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.3333333333333333,
+        "Radiality" : 0.8259187620889749,
+        "Stress" : 298,
+        "TopologicalCoefficient" : 0.4027777777777778,
+        "shared_name" : "Pt Access to Medical Records",
+        "BetweennessCentrality" : 0.02547595019842938,
+        "NumberOfUndirectedEdges" : 4,
+        "name" : "Pt Access to Medical Records",
+        "SelfLoops" : 0,
+        "SUID" : 197632,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 2.9148936170212765,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 7.25
+      },
+      "position" : {
+        "x" : -319.89128283543937,
+        "y" : -254.83221918166248
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "196896",
+        "ClosenessCentrality" : 0.376,
+        "Eccentricity" : 5,
+        "Degree" : 11,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.01818181818181818,
+        "Radiality" : 0.849129593810445,
+        "Stress" : 1444,
+        "TopologicalCoefficient" : 0.15384615384615385,
+        "shared_name" : "Privacy",
+        "BetweennessCentrality" : 0.20698066965412013,
+        "NumberOfUndirectedEdges" : 11,
+        "name" : "Privacy",
+        "SelfLoops" : 0,
+        "SUID" : 196896,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 2.6595744680851063,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 2.8181818181818183
+      },
+      "position" : {
+        "x" : -147.03852252049796,
+        "y" : -164.62114816725818
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197626",
+        "ClosenessCentrality" : 0.31756756756756754,
+        "Eccentricity" : 6,
+        "Degree" : 3,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.3333333333333333,
+        "Radiality" : 0.8046421663442941,
+        "Stress" : 74,
+        "TopologicalCoefficient" : 0.38095238095238093,
+        "shared_name" : "Clinical Documentation",
+        "BetweennessCentrality" : 0.01500394455991126,
+        "NumberOfUndirectedEdges" : 3,
+        "name" : "Clinical Documentation",
+        "SelfLoops" : 0,
+        "SUID" : 197626,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.148936170212766,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 5.666666666666667
+      },
+      "position" : {
+        "x" : 12.012991151377037,
+        "y" : -39.94453531325428
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197621",
+        "ClosenessCentrality" : 0.2582417582417582,
+        "Eccentricity" : 6,
+        "Degree" : 3,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.3333333333333333,
+        "Radiality" : 0.7388781431334622,
+        "Stress" : 328,
+        "TopologicalCoefficient" : 0.5,
+        "shared_name" : "MRP",
+        "BetweennessCentrality" : 0.08325624421831637,
+        "NumberOfUndirectedEdges" : 3,
+        "name" : "MRP",
+        "SelfLoops" : 0,
+        "SUID" : 197621,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.872340425531915,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 2.3333333333333335
+      },
+      "position" : {
+        "x" : -220.36146716161124,
+        "y" : -396.53318124831287
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197616",
+        "ClosenessCentrality" : 0.20704845814977973,
+        "Eccentricity" : 7,
+        "Degree" : 2,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 1.0,
+        "Radiality" : 0.6518375241779497,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.8333333333333334,
+        "shared_name" : "MD Departure",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 2,
+        "name" : "MD Departure",
+        "SelfLoops" : 0,
+        "SUID" : 197616,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 4.829787234042553,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 2.5
+      },
+      "position" : {
+        "x" : 5.728765687509849,
+        "y" : -494.8935862165746
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197614",
+        "ClosenessCentrality" : 0.20704845814977973,
+        "Eccentricity" : 7,
+        "Degree" : 2,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 1.0,
+        "Radiality" : 0.6518375241779497,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.8333333333333334,
+        "shared_name" : "Chart Completion",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 2,
+        "name" : "Chart Completion",
+        "SelfLoops" : 0,
+        "SUID" : 197614,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 4.829787234042553,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 2.5
+      },
+      "position" : {
+        "x" : -454.9008348373925,
+        "y" : -476.6985636335668
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197609",
+        "ClosenessCentrality" : 0.373015873015873,
+        "Eccentricity" : 5,
+        "Degree" : 3,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.8471953578336556,
+        "Stress" : 294,
+        "TopologicalCoefficient" : 0.42592592592592593,
+        "shared_name" : "Privacy Breach Sanctions",
+        "BetweennessCentrality" : 0.03658699456571797,
+        "NumberOfUndirectedEdges" : 3,
+        "name" : "Privacy Breach Sanctions",
+        "SelfLoops" : 0,
+        "SUID" : 197609,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 2.6808510638297873,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 8.666666666666666
+      },
+      "position" : {
+        "x" : -222.2828691391503,
+        "y" : 83.50298971115978
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197604",
+        "ClosenessCentrality" : 0.2865853658536585,
+        "Eccentricity" : 5,
+        "Degree" : 2,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 1.0,
+        "Radiality" : 0.7736943907156673,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.75,
+        "shared_name" : "PI Protection",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 2,
+        "name" : "PI Protection",
+        "SelfLoops" : 0,
+        "SUID" : 197604,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.4893617021276597,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 4.5
+      },
+      "position" : {
+        "x" : -319.85821703954093,
+        "y" : 331.97045797287853
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197599",
+        "ClosenessCentrality" : 0.3533834586466165,
+        "Eccentricity" : 5,
+        "Degree" : 5,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.3,
+        "Radiality" : 0.8336557059961315,
+        "Stress" : 266,
+        "TopologicalCoefficient" : 0.27058823529411763,
+        "shared_name" : "Gender Identity",
+        "BetweennessCentrality" : 0.06213803156448856,
+        "NumberOfUndirectedEdges" : 5,
+        "name" : "Gender Identity",
+        "SelfLoops" : 0,
+        "SUID" : 197599,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 2.8297872340425534,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 4.8
+      },
+      "position" : {
+        "x" : -85.43439666314475,
+        "y" : 132.74365133225353
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197594",
+        "ClosenessCentrality" : 0.36153846153846153,
+        "Eccentricity" : 4,
+        "Degree" : 4,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.3333333333333333,
+        "Radiality" : 0.839458413926499,
+        "Stress" : 162,
+        "TopologicalCoefficient" : 0.3392857142857143,
+        "shared_name" : "AR and ABR",
+        "BetweennessCentrality" : 0.036135172259131564,
+        "NumberOfUndirectedEdges" : 4,
+        "name" : "AR and ABR",
+        "SelfLoops" : 0,
+        "SUID" : 197594,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 2.765957446808511,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 5.0
+      },
+      "position" : {
+        "x" : -425.88310412450187,
+        "y" : 73.53427022873791
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197589",
+        "ClosenessCentrality" : 0.3051948051948052,
+        "Eccentricity" : 5,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.793036750483559,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "Telecomm",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "Telecomm",
+        "SelfLoops" : 0,
+        "SUID" : 197589,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.276595744680851,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 8.0
+      },
+      "position" : {
+        "x" : 17.172270021005943,
+        "y" : -226.82043558180897
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197584",
+        "ClosenessCentrality" : 0.3051948051948052,
+        "Eccentricity" : 5,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.793036750483559,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "Broadcasting",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "Broadcasting",
+        "SelfLoops" : 0,
+        "SUID" : 197584,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.276595744680851,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 8.0
+      },
+      "position" : {
+        "x" : -268.1807878403222,
+        "y" : 35.47354024826916
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197579",
+        "ClosenessCentrality" : 0.3051948051948052,
+        "Eccentricity" : 5,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.793036750483559,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "Pt ID",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "Pt ID",
+        "SelfLoops" : 0,
+        "SUID" : 197579,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.276595744680851,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 8.0
+      },
+      "position" : {
+        "x" : 169.98481579737313,
+        "y" : -6.872559605246465
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197574",
+        "ClosenessCentrality" : 0.3051948051948052,
+        "Eccentricity" : 5,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.793036750483559,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "Taping",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "Taping",
+        "SelfLoops" : 0,
+        "SUID" : 197574,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.276595744680851,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 8.0
+      },
+      "position" : {
+        "x" : 131.88880749659188,
+        "y" : 85.94589132248791
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197569",
+        "ClosenessCentrality" : 0.4234234234234234,
+        "Eccentricity" : 5,
+        "Degree" : 11,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.07272727272727272,
+        "Radiality" : 0.8762088974854932,
+        "Stress" : 1872,
+        "TopologicalCoefficient" : 0.15702479338842976,
+        "shared_name" : "Privacy and Access",
+        "BetweennessCentrality" : 0.2582369218816953,
+        "NumberOfUndirectedEdges" : 11,
+        "name" : "Privacy and Access",
+        "SelfLoops" : 0,
+        "SUID" : 197569,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 2.3617021276595747,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 3.909090909090909
+      },
+      "position" : {
+        "x" : -129.79163149876945,
+        "y" : -77.74920755446522
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197564",
+        "ClosenessCentrality" : 0.32413793103448274,
+        "Eccentricity" : 5,
+        "Degree" : 4,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.8104448742746615,
+        "Stress" : 434,
+        "TopologicalCoefficient" : 0.3611111111111111,
+        "shared_name" : "Info Security",
+        "BetweennessCentrality" : 0.06218008017267962,
+        "NumberOfUndirectedEdges" : 4,
+        "name" : "Info Security",
+        "SelfLoops" : 0,
+        "SUID" : 197564,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.0851063829787235,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 4.25
+      },
+      "position" : {
+        "x" : 60.60468884424813,
+        "y" : -167.8958826643285
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197559",
+        "ClosenessCentrality" : 0.373015873015873,
+        "Eccentricity" : 5,
+        "Degree" : 5,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.1,
+        "Radiality" : 0.8471953578336556,
+        "Stress" : 468,
+        "TopologicalCoefficient" : 0.22,
+        "shared_name" : "MRD Records",
+        "BetweennessCentrality" : 0.11174978274885768,
+        "NumberOfUndirectedEdges" : 5,
+        "name" : "MRD Records",
+        "SelfLoops" : 0,
+        "SUID" : 197559,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 2.6808510638297873,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 5.0
+      },
+      "position" : {
+        "x" : -133.5122507004296,
+        "y" : 119.01110738694103
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197554",
+        "ClosenessCentrality" : 0.4351851851851851,
+        "Eccentricity" : 4,
+        "Degree" : 8,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.03571428571428571,
+        "Radiality" : 0.8820116054158608,
+        "Stress" : 1314,
+        "TopologicalCoefficient" : 0.14583333333333334,
+        "shared_name" : "Approprite use of IT",
+        "BetweennessCentrality" : 0.3009889432183604,
+        "NumberOfUndirectedEdges" : 8,
+        "name" : "Approprite use of IT",
+        "SelfLoops" : 0,
+        "SUID" : 197554,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 2.297872340425532,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 4.25
+      },
+      "position" : {
+        "x" : -61.50631312413566,
+        "y" : -28.65615945876209
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197549",
+        "ClosenessCentrality" : 0.31333333333333335,
+        "Eccentricity" : 5,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.8007736943907156,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "AOS On-call",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "AOS On-call",
+        "SelfLoops" : 0,
+        "SUID" : 197549,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.1914893617021276,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 10.0
+      },
+      "position" : {
+        "x" : -107.47373370213859,
+        "y" : -228.3867617231664
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197544",
+        "ClosenessCentrality" : 0.33571428571428574,
+        "Eccentricity" : 5,
+        "Degree" : 3,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.8201160541586073,
+        "Stress" : 230,
+        "TopologicalCoefficient" : 0.36666666666666664,
+        "shared_name" : "Pt Compliments and Complaints",
+        "BetweennessCentrality" : 0.04148936170212765,
+        "NumberOfUndirectedEdges" : 3,
+        "name" : "Pt Compliments and Complaints",
+        "SelfLoops" : 0,
+        "SUID" : 197544,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 2.978723404255319,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 4.666666666666667
+      },
+      "position" : {
+        "x" : -354.42213610692374,
+        "y" : -368.47997385085193
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197539",
+        "ClosenessCentrality" : 0.3197278911564626,
+        "Eccentricity" : 5,
+        "Degree" : 5,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.3,
+        "Radiality" : 0.8065764023210832,
+        "Stress" : 212,
+        "TopologicalCoefficient" : 0.34545454545454546,
+        "shared_name" : "Incident Reporting and Review",
+        "BetweennessCentrality" : 0.0472303983404816,
+        "NumberOfUndirectedEdges" : 5,
+        "name" : "Incident Reporting and Review",
+        "SelfLoops" : 0,
+        "SUID" : 197539,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.127659574468085,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 4.0
+      },
+      "position" : {
+        "x" : -212.63714770360343,
+        "y" : -89.37728982985584
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197534",
+        "ClosenessCentrality" : 0.34814814814814815,
+        "Eccentricity" : 5,
+        "Degree" : 5,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.3,
+        "Radiality" : 0.8297872340425532,
+        "Stress" : 224,
+        "TopologicalCoefficient" : 0.29,
+        "shared_name" : "Incident  Reporting and Investigations",
+        "BetweennessCentrality" : 0.0550037843747372,
+        "NumberOfUndirectedEdges" : 5,
+        "name" : "Incident  Reporting and Investigations",
+        "SelfLoops" : 0,
+        "SUID" : 197534,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 2.872340425531915,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 6.0
+      },
+      "position" : {
+        "x" : -248.49620226903312,
+        "y" : -324.3368807417211
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197523",
+        "ClosenessCentrality" : 0.27167630057803466,
+        "Eccentricity" : 6,
+        "Degree" : 2,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 1.0,
+        "Radiality" : 0.7562862669245647,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.75,
+        "shared_name" : "Accommodation and Disabilties",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 2,
+        "name" : "Accommodation and Disabilties",
+        "SelfLoops" : 0,
+        "SUID" : 197523,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.6808510638297873,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 4.5
+      },
+      "position" : {
+        "x" : -578.2483079819237,
+        "y" : 78.10623067795666
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197518",
+        "ClosenessCentrality" : 0.3671875,
+        "Eccentricity" : 5,
+        "Degree" : 6,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.2,
+        "Radiality" : 0.8433268858800773,
+        "Stress" : 356,
+        "TopologicalCoefficient" : 0.2647058823529412,
+        "shared_name" : "Accessibility for People with Disabilities",
+        "BetweennessCentrality" : 0.0711055980713705,
+        "NumberOfUndirectedEdges" : 6,
+        "name" : "Accessibility for People with Disabilities",
+        "SelfLoops" : 0,
+        "SUID" : 197518,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 2.723404255319149,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 4.666666666666667
+      },
+      "position" : {
+        "x" : -419.7299363998925,
+        "y" : -123.30067544997303
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197513",
+        "ClosenessCentrality" : 0.4519230769230769,
+        "Eccentricity" : 4,
+        "Degree" : 10,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.06666666666666667,
+        "Radiality" : 0.8897485493230174,
+        "Stress" : 1432,
+        "TopologicalCoefficient" : 0.14782608695652175,
+        "shared_name" : "Fostering Respect",
+        "BetweennessCentrality" : 0.35910973084886116,
+        "NumberOfUndirectedEdges" : 10,
+        "name" : "Fostering Respect",
+        "SelfLoops" : 0,
+        "SUID" : 197513,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 2.2127659574468086,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 3.9
+      },
+      "position" : {
+        "x" : -211.9170015244042,
+        "y" : -36.850403843527715
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197511",
+        "ClosenessCentrality" : 0.33098591549295775,
+        "Eccentricity" : 5,
+        "Degree" : 3,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.6666666666666666,
+        "Radiality" : 0.816247582205029,
+        "Stress" : 74,
+        "TopologicalCoefficient" : 0.42857142857142855,
+        "shared_name" : "Accesibility Standards Regulations",
+        "BetweennessCentrality" : 0.012519272278754238,
+        "NumberOfUndirectedEdges" : 3,
+        "name" : "Accesibility Standards Regulations",
+        "SelfLoops" : 0,
+        "SUID" : 197511,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.021276595744681,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 6.0
+      },
+      "position" : {
+        "x" : -246.18391589208,
+        "y" : 190.08734029709728
       },
       "selected" : false
     } ],
     "edges" : [ {
       "data" : {
-        "id" : "300",
-        "source" : "248",
-        "target" : "298",
-        "EdgeBetweenness" : 31.0,
-        "shared_name" : "Privacy (interacts with) Vendor_Access",
+        "id" : "197839",
+        "source" : "197804",
+        "target" : "197751",
+        "EdgeBetweenness" : 74.77727272727275,
+        "shared_name" : "Pt Safety Event Reporting (interacts with) Reporting and Critical Injury",
         "shared_interaction" : "interacts with",
-        "name" : "Privacy (interacts with) Vendor_Access",
+        "name" : "Pt Safety Event Reporting (interacts with) Reporting and Critical Injury",
         "interaction" : "interacts with",
         "weight" : 1,
-        "SUID" : 300,
+        "SUID" : 197839,
+        "BEND_MAP_ID" : 197839,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "295",
-        "source" : "248",
-        "target" : "293",
-        "EdgeBetweenness" : 31.0,
-        "shared_name" : "Privacy (interacts with) Pt_Access_to_Medical_Records",
+        "id" : "197836",
+        "source" : "197804",
+        "target" : "197727",
+        "EdgeBetweenness" : 68.93787878787879,
+        "shared_name" : "Pt Safety Event Reporting (interacts with) Violence and Domestic Violence",
         "shared_interaction" : "interacts with",
-        "name" : "Privacy (interacts with) Pt_Access_to_Medical_Records",
+        "name" : "Pt Safety Event Reporting (interacts with) Violence and Domestic Violence",
         "interaction" : "interacts with",
         "weight" : 1,
-        "SUID" : 295,
+        "SUID" : 197836,
+        "BEND_MAP_ID" : 197836,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "266",
-        "source" : "248",
-        "target" : "261",
-        "EdgeBetweenness" : 31.0,
-        "shared_name" : "Privacy (interacts with) Sactions_for_Privacy_Breach",
+        "id" : "197721",
+        "source" : "197710",
+        "target" : "197676",
+        "EdgeBetweenness" : 47.5,
+        "shared_name" : "External Observers (interacts with) Intel Property",
         "shared_interaction" : "interacts with",
-        "name" : "Privacy (interacts with) Sactions_for_Privacy_Breach",
+        "name" : "External Observers (interacts with) Intel Property",
         "interaction" : "interacts with",
         "weight" : 1,
-        "SUID" : 266,
+        "SUID" : 197721,
+        "BEND_MAP_ID" : 197721,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "280",
-        "source" : "238",
-        "target" : "233",
-        "EdgeBetweenness" : 5.0,
-        "shared_name" : "Incident_Reporting_&_Review (interacts with) Incident_reporting_and_Investigations",
+        "id" : "197718",
+        "source" : "197710",
+        "target" : "197569",
+        "EdgeBetweenness" : 115.27619047619052,
+        "shared_name" : "External Observers (interacts with) Privacy and Access",
         "shared_interaction" : "interacts with",
-        "name" : "Incident_Reporting_&_Review (interacts with) Incident_reporting_and_Investigations",
+        "name" : "External Observers (interacts with) Privacy and Access",
         "interaction" : "interacts with",
         "weight" : 1,
-        "SUID" : 280,
+        "SUID" : 197718,
+        "BEND_MAP_ID" : 197718,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "240",
-        "source" : "238",
-        "target" : "225",
-        "EdgeBetweenness" : 1.0,
-        "shared_name" : "Incident_Reporting_&_Review (interacts with) Violence_and_Domestic_Violence",
+        "id" : "197715",
+        "source" : "197710",
+        "target" : "197668",
+        "EdgeBetweenness" : 12.823809523809524,
+        "shared_name" : "External Observers (interacts with) Release",
         "shared_interaction" : "interacts with",
-        "name" : "Incident_Reporting_&_Review (interacts with) Violence_and_Domestic_Violence",
+        "name" : "External Observers (interacts with) Release",
         "interaction" : "interacts with",
         "weight" : 1,
-        "SUID" : 240,
+        "SUID" : 197715,
+        "BEND_MAP_ID" : 197715,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "250",
-        "source" : "233",
-        "target" : "248",
-        "EdgeBetweenness" : 60.0,
-        "shared_name" : "Incident_reporting_and_Investigations (interacts with) Privacy",
+        "id" : "197712",
+        "source" : "197710",
+        "target" : "197564",
+        "EdgeBetweenness" : 46.533333333333324,
+        "shared_name" : "External Observers (interacts with) Info Security",
         "shared_interaction" : "interacts with",
-        "name" : "Incident_reporting_and_Investigations (interacts with) Privacy",
+        "name" : "External Observers (interacts with) Info Security",
         "interaction" : "interacts with",
         "weight" : 1,
-        "SUID" : 250,
+        "SUID" : 197712,
+        "BEND_MAP_ID" : 197712,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "235",
-        "source" : "233",
-        "target" : "225",
-        "EdgeBetweenness" : 6.5,
-        "shared_name" : "Incident_reporting_and_Investigations (interacts with) Violence_and_Domestic_Violence",
+        "id" : "197707",
+        "source" : "197699",
+        "target" : "197621",
+        "EdgeBetweenness" : 270.0,
+        "shared_name" : "Escalation (interacts with) MRP",
         "shared_interaction" : "interacts with",
-        "name" : "Incident_reporting_and_Investigations (interacts with) Violence_and_Domestic_Violence",
+        "name" : "Escalation (interacts with) MRP",
         "interaction" : "interacts with",
         "weight" : 1,
-        "SUID" : 235,
+        "SUID" : 197707,
+        "BEND_MAP_ID" : 197707,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "258",
-        "source" : "217",
-        "target" : "253",
-        "EdgeBetweenness" : 53.0,
-        "shared_name" : "Gender_Identity (interacts with) Personal_Information_Protection",
+        "id" : "197704",
+        "source" : "197699",
+        "target" : "197544",
+        "EdgeBetweenness" : 98.60000000000001,
+        "shared_name" : "Escalation (interacts with) Pt Compliments and Complaints",
         "shared_interaction" : "interacts with",
-        "name" : "Gender_Identity (interacts with) Personal_Information_Protection",
+        "name" : "Escalation (interacts with) Pt Compliments and Complaints",
         "interaction" : "interacts with",
         "weight" : 1,
-        "SUID" : 258,
+        "SUID" : 197704,
+        "BEND_MAP_ID" : 197704,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "230",
-        "source" : "217",
-        "target" : "225",
-        "EdgeBetweenness" : 22.0,
-        "shared_name" : "Gender_Identity (interacts with) Violence_and_Domestic_Violence",
+        "id" : "197701",
+        "source" : "197699",
+        "target" : "197513",
+        "EdgeBetweenness" : 277.2666666666667,
+        "shared_name" : "Escalation (interacts with) Fostering Respect",
         "shared_interaction" : "interacts with",
-        "name" : "Gender_Identity (interacts with) Violence_and_Domestic_Violence",
+        "name" : "Escalation (interacts with) Fostering Respect",
         "interaction" : "interacts with",
         "weight" : 1,
-        "SUID" : 230,
+        "SUID" : 197701,
+        "BEND_MAP_ID" : 197701,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "211",
-        "source" : "209",
-        "target" : "189",
-        "EdgeBetweenness" : 90.0,
-        "shared_name" : "Approprite_use_of_IT (interacts with) Fostering_Respect",
+        "id" : "197696",
+        "source" : "197686",
+        "target" : "197694",
+        "EdgeBetweenness" : 94.0,
+        "shared_name" : "Electronic Monitoring (interacts with) Video Surveillance",
         "shared_interaction" : "interacts with",
-        "name" : "Approprite_use_of_IT (interacts with) Fostering_Respect",
+        "name" : "Electronic Monitoring (interacts with) Video Surveillance",
         "interaction" : "interacts with",
         "weight" : 1,
-        "SUID" : 211,
+        "SUID" : 197696,
+        "BEND_MAP_ID" : 197696,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "290",
-        "source" : "204",
-        "target" : "288",
-        "EdgeBetweenness" : 9.0,
-        "shared_name" : "Accessibility_for_People_with_Disabilities (interacts with) Patient_Compliments_._Complaints",
+        "id" : "197691",
+        "source" : "197686",
+        "target" : "197559",
+        "EdgeBetweenness" : 114.73636363636363,
+        "shared_name" : "Electronic Monitoring (interacts with) MRD Records",
         "shared_interaction" : "interacts with",
-        "name" : "Accessibility_for_People_with_Disabilities (interacts with) Patient_Compliments_._Complaints",
+        "name" : "Electronic Monitoring (interacts with) MRD Records",
         "interaction" : "interacts with",
         "weight" : 1,
-        "SUID" : 290,
+        "SUID" : 197691,
+        "BEND_MAP_ID" : 197691,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "285",
-        "source" : "204",
-        "target" : "283",
-        "EdgeBetweenness" : 9.0,
-        "shared_name" : "Accessibility_for_People_with_Disabilities (interacts with) Incident_Reporting_._Review",
+        "id" : "197688",
+        "source" : "197686",
+        "target" : "197599",
+        "EdgeBetweenness" : 111.46363636363641,
+        "shared_name" : "Electronic Monitoring (interacts with) Gender Identity",
         "shared_interaction" : "interacts with",
-        "name" : "Accessibility_for_People_with_Disabilities (interacts with) Incident_Reporting_._Review",
+        "name" : "Electronic Monitoring (interacts with) Gender Identity",
         "interaction" : "interacts with",
         "weight" : 1,
-        "SUID" : 285,
+        "SUID" : 197688,
+        "BEND_MAP_ID" : 197688,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "277",
-        "source" : "204",
-        "target" : "233",
-        "EdgeBetweenness" : 46.5,
-        "shared_name" : "Accessibility_for_People_with_Disabilities (interacts with) Incident_reporting_and_Investigations",
+        "id" : "197683",
+        "source" : "197681",
+        "target" : "197539",
+        "EdgeBetweenness" : 94.0,
+        "shared_name" : "Disclosure and Safety Events (interacts with) Incident Reporting and Review",
         "shared_interaction" : "interacts with",
-        "name" : "Accessibility_for_People_with_Disabilities (interacts with) Incident_reporting_and_Investigations",
+        "name" : "Disclosure and Safety Events (interacts with) Incident Reporting and Review",
         "interaction" : "interacts with",
         "weight" : 1,
-        "SUID" : 277,
+        "SUID" : 197683,
+        "BEND_MAP_ID" : 197683,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "274",
-        "source" : "204",
-        "target" : "269",
-        "EdgeBetweenness" : 3.0,
-        "shared_name" : "Accessibility_for_People_with_Disabilities (interacts with) Accommodation_for_Person_with_Disabilties",
+        "id" : "197678",
+        "source" : "197663",
+        "target" : "197676",
+        "EdgeBetweenness" : 47.5,
+        "shared_name" : "Data Access S and U (interacts with) Intel Property",
         "shared_interaction" : "interacts with",
-        "name" : "Accessibility_for_People_with_Disabilities (interacts with) Accommodation_for_Person_with_Disabilties",
+        "name" : "Data Access S and U (interacts with) Intel Property",
         "interaction" : "interacts with",
         "weight" : 1,
-        "SUID" : 274,
+        "SUID" : 197678,
+        "BEND_MAP_ID" : 197678,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "206",
-        "source" : "204",
-        "target" : "189",
-        "EdgeBetweenness" : 13.5,
-        "shared_name" : "Accessibility_for_People_with_Disabilities (interacts with) Fostering_Respect",
+        "id" : "197673",
+        "source" : "197663",
+        "target" : "197569",
+        "EdgeBetweenness" : 115.2761904761905,
+        "shared_name" : "Data Access S and U (interacts with) Privacy and Access",
         "shared_interaction" : "interacts with",
-        "name" : "Accessibility_for_People_with_Disabilities (interacts with) Fostering_Respect",
+        "name" : "Data Access S and U (interacts with) Privacy and Access",
         "interaction" : "interacts with",
         "weight" : 1,
-        "SUID" : 206,
+        "SUID" : 197673,
+        "BEND_MAP_ID" : 197673,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "271",
-        "source" : "199",
-        "target" : "269",
-        "EdgeBetweenness" : 6.0,
-        "shared_name" : "Accesibility_Standards_Regulations (interacts with) Accommodation_for_Person_with_Disabilties",
+        "id" : "197670",
+        "source" : "197663",
+        "target" : "197668",
+        "EdgeBetweenness" : 12.823809523809524,
+        "shared_name" : "Data Access S and U (interacts with) Release",
         "shared_interaction" : "interacts with",
-        "name" : "Accesibility_Standards_Regulations (interacts with) Accommodation_for_Person_with_Disabilties",
+        "name" : "Data Access S and U (interacts with) Release",
         "interaction" : "interacts with",
         "weight" : 1,
-        "SUID" : 271,
+        "SUID" : 197670,
+        "BEND_MAP_ID" : 197670,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "214",
-        "source" : "199",
-        "target" : "204",
+        "id" : "197665",
+        "source" : "197663",
+        "target" : "197564",
+        "EdgeBetweenness" : 46.53333333333333,
+        "shared_name" : "Data Access S and U (interacts with) Info Security",
+        "shared_interaction" : "interacts with",
+        "name" : "Data Access S and U (interacts with) Info Security",
+        "interaction" : "interacts with",
+        "weight" : 1,
+        "SUID" : 197665,
+        "BEND_MAP_ID" : 197665,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197657",
+        "source" : "197655",
+        "target" : "197564",
+        "EdgeBetweenness" : 94.0,
+        "shared_name" : "Consent for use of email (interacts with) Info Security",
+        "shared_interaction" : "interacts with",
+        "name" : "Consent for use of email (interacts with) Info Security",
+        "interaction" : "interacts with",
+        "weight" : 1,
+        "SUID" : 197657,
+        "BEND_MAP_ID" : 197657,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197652",
+        "source" : "197642",
+        "target" : "197650",
+        "EdgeBetweenness" : 94.0,
+        "shared_name" : "COI (interacts with) Relationship Disclosure",
+        "shared_interaction" : "interacts with",
+        "name" : "COI (interacts with) Relationship Disclosure",
+        "interaction" : "interacts with",
+        "weight" : 1,
+        "SUID" : 197652,
+        "BEND_MAP_ID" : 197652,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197647",
+        "source" : "197642",
+        "target" : "196896",
+        "EdgeBetweenness" : 148.27662337662335,
+        "shared_name" : "COI (interacts with) Privacy",
+        "shared_interaction" : "interacts with",
+        "name" : "COI (interacts with) Privacy",
+        "interaction" : "interacts with",
+        "weight" : 1,
+        "SUID" : 197647,
+        "BEND_MAP_ID" : 197647,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197644",
+        "source" : "197642",
+        "target" : "197513",
+        "EdgeBetweenness" : 186.7528138528139,
+        "shared_name" : "COI (interacts with) Fostering Respect",
+        "shared_interaction" : "interacts with",
+        "name" : "COI (interacts with) Fostering Respect",
+        "interaction" : "interacts with",
+        "weight" : 1,
+        "SUID" : 197644,
+        "BEND_MAP_ID" : 197644,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197660",
+        "source" : "197637",
+        "target" : "197559",
+        "EdgeBetweenness" : 79.90519480519481,
+        "shared_name" : "Corrections (interacts with) MRD Records",
+        "shared_interaction" : "interacts with",
+        "name" : "Corrections (interacts with) MRD Records",
+        "interaction" : "interacts with",
+        "weight" : 1,
+        "SUID" : 197660,
+        "BEND_MAP_ID" : 197660,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197830",
+        "source" : "197632",
+        "target" : "197668",
+        "EdgeBetweenness" : 34.14761904761905,
+        "shared_name" : "Pt Access to Medical Records (interacts with) Release",
+        "shared_interaction" : "interacts with",
+        "name" : "Pt Access to Medical Records (interacts with) Release",
+        "interaction" : "interacts with",
+        "weight" : 1,
+        "SUID" : 197830,
+        "BEND_MAP_ID" : 197830,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197806",
+        "source" : "196896",
+        "target" : "197804",
+        "EdgeBetweenness" : 95.67077922077922,
+        "shared_name" : "Privacy (interacts with) Pt Safety Event Reporting",
+        "shared_interaction" : "interacts with",
+        "name" : "Privacy (interacts with) Pt Safety Event Reporting",
+        "interaction" : "interacts with",
+        "weight" : 1,
+        "SUID" : 197806,
+        "BEND_MAP_ID" : 197806,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197801",
+        "source" : "196896",
+        "target" : "197799",
+        "EdgeBetweenness" : 58.53138528138528,
+        "shared_name" : "Privacy (interacts with) Vendor in Clinical Areas",
+        "shared_interaction" : "interacts with",
+        "name" : "Privacy (interacts with) Vendor in Clinical Areas",
+        "interaction" : "interacts with",
+        "weight" : 1,
+        "SUID" : 197801,
+        "BEND_MAP_ID" : 197801,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197796",
+        "source" : "196896",
+        "target" : "197794",
+        "EdgeBetweenness" : 58.53138528138527,
+        "shared_name" : "Privacy (interacts with) Remote Observation",
+        "shared_interaction" : "interacts with",
+        "name" : "Privacy (interacts with) Remote Observation",
+        "interaction" : "interacts with",
+        "weight" : 1,
+        "SUID" : 197796,
+        "BEND_MAP_ID" : 197796,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197791",
+        "source" : "196896",
+        "target" : "197789",
+        "EdgeBetweenness" : 94.0,
+        "shared_name" : "Privacy (interacts with) Requirments for Informed Consent",
+        "shared_interaction" : "interacts with",
+        "name" : "Privacy (interacts with) Requirments for Informed Consent",
+        "interaction" : "interacts with",
+        "weight" : 1,
+        "SUID" : 197791,
+        "BEND_MAP_ID" : 197791,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197786",
+        "source" : "196896",
+        "target" : "197784",
+        "EdgeBetweenness" : 94.0,
+        "shared_name" : "Privacy (interacts with) Procurement",
+        "shared_interaction" : "interacts with",
+        "name" : "Privacy (interacts with) Procurement",
+        "interaction" : "interacts with",
+        "weight" : 1,
+        "SUID" : 197786,
+        "BEND_MAP_ID" : 197786,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197781",
+        "source" : "196896",
+        "target" : "197779",
+        "EdgeBetweenness" : 58.53138528138527,
+        "shared_name" : "Privacy (interacts with) Vendor Access",
+        "shared_interaction" : "interacts with",
+        "name" : "Privacy (interacts with) Vendor Access",
+        "interaction" : "interacts with",
+        "weight" : 1,
+        "SUID" : 197781,
+        "BEND_MAP_ID" : 197781,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197776",
+        "source" : "196896",
+        "target" : "197632",
+        "EdgeBetweenness" : 75.74567099567099,
+        "shared_name" : "Privacy (interacts with) Pt Access to Medical Records",
+        "shared_interaction" : "interacts with",
+        "name" : "Privacy (interacts with) Pt Access to Medical Records",
+        "interaction" : "interacts with",
+        "weight" : 1,
+        "SUID" : 197776,
+        "BEND_MAP_ID" : 197776,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197773",
+        "source" : "196896",
+        "target" : "197609",
+        "EdgeBetweenness" : 74.18593073593074,
+        "shared_name" : "Privacy (interacts with) Privacy Breach Sanctions",
+        "shared_interaction" : "interacts with",
+        "name" : "Privacy (interacts with) Privacy Breach Sanctions",
+        "interaction" : "interacts with",
+        "weight" : 1,
+        "SUID" : 197773,
+        "BEND_MAP_ID" : 197773,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197639",
+        "source" : "197626",
+        "target" : "197637",
+        "EdgeBetweenness" : 48.50519480519479,
+        "shared_name" : "Clinical Documentation (interacts with) Corrections",
+        "shared_interaction" : "interacts with",
+        "name" : "Clinical Documentation (interacts with) Corrections",
+        "interaction" : "interacts with",
+        "weight" : 1,
+        "SUID" : 197639,
+        "BEND_MAP_ID" : 197639,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197634",
+        "source" : "197626",
+        "target" : "197632",
+        "EdgeBetweenness" : 23.333333333333332,
+        "shared_name" : "Clinical Documentation (interacts with) Pt Access to Medical Records",
+        "shared_interaction" : "interacts with",
+        "name" : "Clinical Documentation (interacts with) Pt Access to Medical Records",
+        "interaction" : "interacts with",
+        "weight" : 1,
+        "SUID" : 197634,
+        "BEND_MAP_ID" : 197634,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197629",
+        "source" : "197626",
+        "target" : "196896",
+        "EdgeBetweenness" : 87.03852813852814,
+        "shared_name" : "Clinical Documentation (interacts with) Privacy",
+        "shared_interaction" : "interacts with",
+        "name" : "Clinical Documentation (interacts with) Privacy",
+        "interaction" : "interacts with",
+        "weight" : 1,
+        "SUID" : 197629,
+        "BEND_MAP_ID" : 197629,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197762",
+        "source" : "197616",
+        "target" : "197621",
+        "EdgeBetweenness" : 92.0,
+        "shared_name" : "MD Departure (interacts with) MRP",
+        "shared_interaction" : "interacts with",
+        "name" : "MD Departure (interacts with) MRP",
+        "interaction" : "interacts with",
+        "weight" : 1,
+        "SUID" : 197762,
+        "BEND_MAP_ID" : 197762,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197623",
+        "source" : "197614",
+        "target" : "197621",
+        "EdgeBetweenness" : 92.0,
+        "shared_name" : "Chart Completion (interacts with) MRP",
+        "shared_interaction" : "interacts with",
+        "name" : "Chart Completion (interacts with) MRP",
+        "interaction" : "interacts with",
+        "weight" : 1,
+        "SUID" : 197623,
+        "BEND_MAP_ID" : 197623,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197618",
+        "source" : "197614",
+        "target" : "197616",
+        "EdgeBetweenness" : 2.0,
+        "shared_name" : "Chart Completion (interacts with) MD Departure",
+        "shared_interaction" : "interacts with",
+        "name" : "Chart Completion (interacts with) MD Departure",
+        "interaction" : "interacts with",
+        "weight" : 1,
+        "SUID" : 197618,
+        "BEND_MAP_ID" : 197618,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197739",
+        "source" : "197599",
+        "target" : "197604",
+        "EdgeBetweenness" : 44.2,
+        "shared_name" : "Gender Identity (interacts with) PI Protection",
+        "shared_interaction" : "interacts with",
+        "name" : "Gender Identity (interacts with) PI Protection",
+        "interaction" : "interacts with",
+        "weight" : 1,
+        "SUID" : 197739,
+        "BEND_MAP_ID" : 197739,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197736",
+        "source" : "197599",
+        "target" : "197727",
+        "EdgeBetweenness" : 66.1939393939394,
+        "shared_name" : "Gender Identity (interacts with) Violence and Domestic Violence",
+        "shared_interaction" : "interacts with",
+        "name" : "Gender Identity (interacts with) Violence and Domestic Violence",
+        "interaction" : "interacts with",
+        "weight" : 1,
+        "SUID" : 197736,
+        "BEND_MAP_ID" : 197736,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197611",
+        "source" : "197594",
+        "target" : "197609",
+        "EdgeBetweenness" : 90.7030303030303,
+        "shared_name" : "AR and ABR (interacts with) Privacy Breach Sanctions",
+        "shared_interaction" : "interacts with",
+        "name" : "AR and ABR (interacts with) Privacy Breach Sanctions",
+        "interaction" : "interacts with",
+        "weight" : 1,
+        "SUID" : 197611,
+        "BEND_MAP_ID" : 197611,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197606",
+        "source" : "197594",
+        "target" : "197604",
+        "EdgeBetweenness" : 49.8,
+        "shared_name" : "AR and ABR (interacts with) PI Protection",
+        "shared_interaction" : "interacts with",
+        "name" : "AR and ABR (interacts with) PI Protection",
+        "interaction" : "interacts with",
+        "weight" : 1,
+        "SUID" : 197606,
+        "BEND_MAP_ID" : 197606,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197601",
+        "source" : "197594",
+        "target" : "197599",
+        "EdgeBetweenness" : 23.303030303030297,
+        "shared_name" : "AR and ABR (interacts with) Gender Identity",
+        "shared_interaction" : "interacts with",
+        "name" : "AR and ABR (interacts with) Gender Identity",
+        "interaction" : "interacts with",
+        "weight" : 1,
+        "SUID" : 197601,
+        "BEND_MAP_ID" : 197601,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197596",
+        "source" : "197594",
+        "target" : "197513",
+        "EdgeBetweenness" : 86.44242424242427,
+        "shared_name" : "AR and ABR (interacts with) Fostering Respect",
+        "shared_interaction" : "interacts with",
+        "name" : "AR and ABR (interacts with) Fostering Respect",
+        "interaction" : "interacts with",
+        "weight" : 1,
+        "SUID" : 197596,
+        "BEND_MAP_ID" : 197596,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197827",
+        "source" : "197569",
+        "target" : "197668",
+        "EdgeBetweenness" : 64.5,
+        "shared_name" : "Privacy and Access (interacts with) Release",
+        "shared_interaction" : "interacts with",
+        "name" : "Privacy and Access (interacts with) Release",
+        "interaction" : "interacts with",
+        "weight" : 1,
+        "SUID" : 197827,
+        "BEND_MAP_ID" : 197827,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197824",
+        "source" : "197569",
+        "target" : "197804",
+        "EdgeBetweenness" : 184.34653679653678,
+        "shared_name" : "Privacy and Access (interacts with) Pt Safety Event Reporting",
+        "shared_interaction" : "interacts with",
+        "name" : "Privacy and Access (interacts with) Pt Safety Event Reporting",
+        "interaction" : "interacts with",
+        "weight" : 1,
+        "SUID" : 197824,
+        "BEND_MAP_ID" : 197824,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197821",
+        "source" : "197569",
+        "target" : "197799",
+        "EdgeBetweenness" : 66.53138528138527,
+        "shared_name" : "Privacy and Access (interacts with) Vendor in Clinical Areas",
+        "shared_interaction" : "interacts with",
+        "name" : "Privacy and Access (interacts with) Vendor in Clinical Areas",
+        "interaction" : "interacts with",
+        "weight" : 1,
+        "SUID" : 197821,
+        "BEND_MAP_ID" : 197821,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197818",
+        "source" : "197569",
+        "target" : "197794",
+        "EdgeBetweenness" : 66.53138528138527,
+        "shared_name" : "Privacy and Access (interacts with) Remote Observation",
+        "shared_interaction" : "interacts with",
+        "name" : "Privacy and Access (interacts with) Remote Observation",
+        "interaction" : "interacts with",
+        "weight" : 1,
+        "SUID" : 197818,
+        "BEND_MAP_ID" : 197818,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197815",
+        "source" : "197569",
+        "target" : "197779",
+        "EdgeBetweenness" : 66.53138528138527,
+        "shared_name" : "Privacy and Access (interacts with) Vendor Access",
+        "shared_interaction" : "interacts with",
+        "name" : "Privacy and Access (interacts with) Vendor Access",
+        "interaction" : "interacts with",
+        "weight" : 1,
+        "SUID" : 197815,
+        "BEND_MAP_ID" : 197815,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197812",
+        "source" : "197569",
+        "target" : "197632",
+        "EdgeBetweenness" : 70.93138528138527,
+        "shared_name" : "Privacy and Access (interacts with) Pt Access to Medical Records",
+        "shared_interaction" : "interacts with",
+        "name" : "Privacy and Access (interacts with) Pt Access to Medical Records",
+        "interaction" : "interacts with",
+        "weight" : 1,
+        "SUID" : 197812,
+        "BEND_MAP_ID" : 197812,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197809",
+        "source" : "197569",
+        "target" : "197609",
+        "EdgeBetweenness" : 87.31320346320345,
+        "shared_name" : "Privacy and Access (interacts with) Privacy Breach Sanctions",
+        "shared_interaction" : "interacts with",
+        "name" : "Privacy and Access (interacts with) Privacy Breach Sanctions",
+        "interaction" : "interacts with",
+        "weight" : 1,
+        "SUID" : 197809,
+        "BEND_MAP_ID" : 197809,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197770",
+        "source" : "197559",
+        "target" : "197768",
+        "EdgeBetweenness" : 94.0,
+        "shared_name" : "MRD Records (interacts with) Point.of.care",
+        "shared_interaction" : "interacts with",
+        "name" : "MRD Records (interacts with) Point.of.care",
+        "interaction" : "interacts with",
+        "weight" : 1,
+        "SUID" : 197770,
+        "BEND_MAP_ID" : 197770,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197765",
+        "source" : "197559",
+        "target" : "197569",
+        "EdgeBetweenness" : 139.1311688311688,
+        "shared_name" : "MRD Records (interacts with) Privacy and Access",
+        "shared_interaction" : "interacts with",
+        "name" : "MRD Records (interacts with) Privacy and Access",
+        "interaction" : "interacts with",
+        "weight" : 1,
+        "SUID" : 197765,
+        "BEND_MAP_ID" : 197765,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197591",
+        "source" : "197554",
+        "target" : "197589",
+        "EdgeBetweenness" : 94.0,
+        "shared_name" : "Approprite use of IT (interacts with) Telecomm",
+        "shared_interaction" : "interacts with",
+        "name" : "Approprite use of IT (interacts with) Telecomm",
+        "interaction" : "interacts with",
+        "weight" : 1,
+        "SUID" : 197591,
+        "BEND_MAP_ID" : 197591,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197586",
+        "source" : "197554",
+        "target" : "197584",
+        "EdgeBetweenness" : 94.0,
+        "shared_name" : "Approprite use of IT (interacts with) Broadcasting",
+        "shared_interaction" : "interacts with",
+        "name" : "Approprite use of IT (interacts with) Broadcasting",
+        "interaction" : "interacts with",
+        "weight" : 1,
+        "SUID" : 197586,
+        "BEND_MAP_ID" : 197586,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197581",
+        "source" : "197554",
+        "target" : "197579",
+        "EdgeBetweenness" : 94.0,
+        "shared_name" : "Approprite use of IT (interacts with) Pt ID",
+        "shared_interaction" : "interacts with",
+        "name" : "Approprite use of IT (interacts with) Pt ID",
+        "interaction" : "interacts with",
+        "weight" : 1,
+        "SUID" : 197581,
+        "BEND_MAP_ID" : 197581,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197576",
+        "source" : "197554",
+        "target" : "197574",
+        "EdgeBetweenness" : 94.0,
+        "shared_name" : "Approprite use of IT (interacts with) Taping",
+        "shared_interaction" : "interacts with",
+        "name" : "Approprite use of IT (interacts with) Taping",
+        "interaction" : "interacts with",
+        "weight" : 1,
+        "SUID" : 197576,
+        "BEND_MAP_ID" : 197576,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197571",
+        "source" : "197554",
+        "target" : "197569",
+        "EdgeBetweenness" : 234.24761904761905,
+        "shared_name" : "Approprite use of IT (interacts with) Privacy and Access",
+        "shared_interaction" : "interacts with",
+        "name" : "Approprite use of IT (interacts with) Privacy and Access",
+        "interaction" : "interacts with",
+        "weight" : 1,
+        "SUID" : 197571,
+        "BEND_MAP_ID" : 197571,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197566",
+        "source" : "197554",
+        "target" : "197564",
+        "EdgeBetweenness" : 175.79999999999993,
+        "shared_name" : "Approprite use of IT (interacts with) Info Security",
+        "shared_interaction" : "interacts with",
+        "name" : "Approprite use of IT (interacts with) Info Security",
+        "interaction" : "interacts with",
+        "weight" : 1,
+        "SUID" : 197566,
+        "BEND_MAP_ID" : 197566,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197561",
+        "source" : "197554",
+        "target" : "197559",
+        "EdgeBetweenness" : 149.43333333333334,
+        "shared_name" : "Approprite use of IT (interacts with) MRD Records",
+        "shared_interaction" : "interacts with",
+        "name" : "Approprite use of IT (interacts with) MRD Records",
+        "interaction" : "interacts with",
+        "weight" : 1,
+        "SUID" : 197561,
+        "BEND_MAP_ID" : 197561,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197556",
+        "source" : "197554",
+        "target" : "197513",
+        "EdgeBetweenness" : 459.99523809523794,
+        "shared_name" : "Approprite use of IT (interacts with) Fostering Respect",
+        "shared_interaction" : "interacts with",
+        "name" : "Approprite use of IT (interacts with) Fostering Respect",
+        "interaction" : "interacts with",
+        "weight" : 1,
+        "SUID" : 197556,
+        "BEND_MAP_ID" : 197556,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197551",
+        "source" : "197549",
+        "target" : "197513",
+        "EdgeBetweenness" : 94.0,
+        "shared_name" : "AOS On-call (interacts with) Fostering Respect",
+        "shared_interaction" : "interacts with",
+        "name" : "AOS On-call (interacts with) Fostering Respect",
+        "interaction" : "interacts with",
+        "weight" : 1,
+        "SUID" : 197551,
+        "BEND_MAP_ID" : 197551,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197833",
+        "source" : "197544",
+        "target" : "197804",
+        "EdgeBetweenness" : 125.16666666666667,
+        "shared_name" : "Pt Compliments and Complaints (interacts with) Pt Safety Event Reporting",
+        "shared_interaction" : "interacts with",
+        "name" : "Pt Compliments and Complaints (interacts with) Pt Safety Event Reporting",
+        "interaction" : "interacts with",
+        "weight" : 1,
+        "SUID" : 197833,
+        "BEND_MAP_ID" : 197833,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197759",
+        "source" : "197539",
+        "target" : "197751",
+        "EdgeBetweenness" : 25.878787878787875,
+        "shared_name" : "Incident Reporting and Review (interacts with) Reporting and Critical Injury",
+        "shared_interaction" : "interacts with",
+        "name" : "Incident Reporting and Review (interacts with) Reporting and Critical Injury",
+        "interaction" : "interacts with",
+        "weight" : 1,
+        "SUID" : 197759,
+        "BEND_MAP_ID" : 197759,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197756",
+        "source" : "197539",
+        "target" : "197727",
+        "EdgeBetweenness" : 72.53030303030305,
+        "shared_name" : "Incident Reporting and Review (interacts with) Violence and Domestic Violence",
+        "shared_interaction" : "interacts with",
+        "name" : "Incident Reporting and Review (interacts with) Violence and Domestic Violence",
+        "interaction" : "interacts with",
+        "weight" : 1,
+        "SUID" : 197756,
+        "BEND_MAP_ID" : 197756,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197753",
+        "source" : "197534",
+        "target" : "197751",
+        "EdgeBetweenness" : 23.043939393939386,
+        "shared_name" : "Incident  Reporting and Investigations (interacts with) Reporting and Critical Injury",
+        "shared_interaction" : "interacts with",
+        "name" : "Incident  Reporting and Investigations (interacts with) Reporting and Critical Injury",
+        "interaction" : "interacts with",
+        "weight" : 1,
+        "SUID" : 197753,
+        "BEND_MAP_ID" : 197753,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197748",
+        "source" : "197534",
+        "target" : "197539",
         "EdgeBetweenness" : 48.0,
-        "shared_name" : "Accesibility_Standards_Regulations (interacts with) Accessibility_for_People_with_Disabilities",
+        "shared_name" : "Incident  Reporting and Investigations (interacts with) Incident Reporting and Review",
         "shared_interaction" : "interacts with",
-        "name" : "Accesibility_Standards_Regulations (interacts with) Accessibility_for_People_with_Disabilities",
+        "name" : "Incident  Reporting and Investigations (interacts with) Incident Reporting and Review",
         "interaction" : "interacts with",
         "weight" : 1,
-        "SUID" : 214,
+        "SUID" : 197748,
+        "BEND_MAP_ID" : 197748,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "201",
-        "source" : "199",
-        "target" : "189",
-        "EdgeBetweenness" : 30.0,
-        "shared_name" : "Accesibility_Standards_Regulations (interacts with) Fostering_Respect",
+        "id" : "197745",
+        "source" : "197534",
+        "target" : "196896",
+        "EdgeBetweenness" : 144.47272727272727,
+        "shared_name" : "Incident  Reporting and Investigations (interacts with) Privacy",
         "shared_interaction" : "interacts with",
-        "name" : "Accesibility_Standards_Regulations (interacts with) Fostering_Respect",
+        "name" : "Incident  Reporting and Investigations (interacts with) Privacy",
         "interaction" : "interacts with",
         "weight" : 1,
-        "SUID" : 201,
+        "SUID" : 197745,
+        "BEND_MAP_ID" : 197745,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "245",
-        "source" : "189",
-        "target" : "243",
-        "EdgeBetweenness" : 52.0,
-        "shared_name" : "Fostering_Respect (interacts with) Whistleblower",
+        "id" : "197742",
+        "source" : "197534",
+        "target" : "197727",
+        "EdgeBetweenness" : 43.43787878787881,
+        "shared_name" : "Incident  Reporting and Investigations (interacts with) Violence and Domestic Violence",
         "shared_interaction" : "interacts with",
-        "name" : "Fostering_Respect (interacts with) Whistleblower",
+        "name" : "Incident  Reporting and Investigations (interacts with) Violence and Domestic Violence",
         "interaction" : "interacts with",
         "weight" : 1,
-        "SUID" : 245,
+        "SUID" : 197742,
+        "BEND_MAP_ID" : 197742,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "227",
-        "source" : "189",
-        "target" : "225",
-        "EdgeBetweenness" : 43.5,
-        "shared_name" : "Fostering_Respect (interacts with) Violence_and_Domestic_Violence",
+        "id" : "197546",
+        "source" : "197518",
+        "target" : "197544",
+        "EdgeBetweenness" : 49.633333333333326,
+        "shared_name" : "Accessibility for People with Disabilities (interacts with) Pt Compliments and Complaints",
         "shared_interaction" : "interacts with",
-        "name" : "Fostering_Respect (interacts with) Violence_and_Domestic_Violence",
+        "name" : "Accessibility for People with Disabilities (interacts with) Pt Compliments and Complaints",
         "interaction" : "interacts with",
         "weight" : 1,
-        "SUID" : 227,
+        "SUID" : 197546,
+        "BEND_MAP_ID" : 197546,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "219",
-        "source" : "189",
-        "target" : "217",
-        "EdgeBetweenness" : 76.0,
-        "shared_name" : "Fostering_Respect (interacts with) Gender_Identity",
+        "id" : "197541",
+        "source" : "197518",
+        "target" : "197539",
+        "EdgeBetweenness" : 57.81515151515152,
+        "shared_name" : "Accessibility for People with Disabilities (interacts with) Incident Reporting and Review",
         "shared_interaction" : "interacts with",
-        "name" : "Fostering_Respect (interacts with) Gender_Identity",
+        "name" : "Accessibility for People with Disabilities (interacts with) Incident Reporting and Review",
         "interaction" : "interacts with",
         "weight" : 1,
-        "SUID" : 219,
+        "SUID" : 197541,
+        "BEND_MAP_ID" : 197541,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "263",
-        "source" : "187",
-        "target" : "261",
-        "EdgeBetweenness" : 14.0,
-        "shared_name" : "AR_ABR (interacts with) Sactions_for_Privacy_Breach",
+        "id" : "197536",
+        "source" : "197518",
+        "target" : "197534",
+        "EdgeBetweenness" : 72.88181818181818,
+        "shared_name" : "Accessibility for People with Disabilities (interacts with) Incident  Reporting and Investigations",
         "shared_interaction" : "interacts with",
-        "name" : "AR_ABR (interacts with) Sactions_for_Privacy_Breach",
+        "name" : "Accessibility for People with Disabilities (interacts with) Incident  Reporting and Investigations",
         "interaction" : "interacts with",
         "weight" : 1,
-        "SUID" : 263,
+        "SUID" : 197536,
+        "BEND_MAP_ID" : 197536,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "255",
-        "source" : "187",
-        "target" : "253",
-        "EdgeBetweenness" : 14.0,
-        "shared_name" : "AR_ABR (interacts with) Personal_Information_Protection",
+        "id" : "197531",
+        "source" : "197518",
+        "target" : "197523",
+        "EdgeBetweenness" : 64.93333333333332,
+        "shared_name" : "Accessibility for People with Disabilities (interacts with) Accommodation and Disabilties",
         "shared_interaction" : "interacts with",
-        "name" : "AR_ABR (interacts with) Personal_Information_Protection",
+        "name" : "Accessibility for People with Disabilities (interacts with) Accommodation and Disabilties",
         "interaction" : "interacts with",
         "weight" : 1,
-        "SUID" : 255,
+        "SUID" : 197531,
+        "BEND_MAP_ID" : 197531,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "222",
-        "source" : "187",
-        "target" : "217",
-        "EdgeBetweenness" : 21.0,
-        "shared_name" : "AR_ABR (interacts with) Gender_Identity",
+        "id" : "197528",
+        "source" : "197518",
+        "target" : "197513",
+        "EdgeBetweenness" : 136.530303030303,
+        "shared_name" : "Accessibility for People with Disabilities (interacts with) Fostering Respect",
         "shared_interaction" : "interacts with",
-        "name" : "AR_ABR (interacts with) Gender_Identity",
+        "name" : "Accessibility for People with Disabilities (interacts with) Fostering Respect",
         "interaction" : "interacts with",
         "weight" : 1,
-        "SUID" : 222,
+        "SUID" : 197528,
+        "BEND_MAP_ID" : 197528,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "191",
-        "source" : "187",
-        "target" : "189",
-        "EdgeBetweenness" : 35.0,
-        "shared_name" : "AR_ABR (interacts with) Fostering_Respect",
+        "id" : "197733",
+        "source" : "197513",
+        "target" : "196898",
+        "EdgeBetweenness" : 94.0,
+        "shared_name" : "Fostering Respect (interacts with) Whistleblower",
         "shared_interaction" : "interacts with",
-        "name" : "AR_ABR (interacts with) Fostering_Respect",
+        "name" : "Fostering Respect (interacts with) Whistleblower",
         "interaction" : "interacts with",
         "weight" : 1,
-        "SUID" : 191,
+        "SUID" : 197733,
+        "BEND_MAP_ID" : 197733,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197729",
+        "source" : "197513",
+        "target" : "197727",
+        "EdgeBetweenness" : 94.87878787878788,
+        "shared_name" : "Fostering Respect (interacts with) Violence and Domestic Violence",
+        "shared_interaction" : "interacts with",
+        "name" : "Fostering Respect (interacts with) Violence and Domestic Violence",
+        "interaction" : "interacts with",
+        "weight" : 1,
+        "SUID" : 197729,
+        "BEND_MAP_ID" : 197729,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197724",
+        "source" : "197513",
+        "target" : "197599",
+        "EdgeBetweenness" : 117.52424242424246,
+        "shared_name" : "Fostering Respect (interacts with) Gender Identity",
+        "shared_interaction" : "interacts with",
+        "name" : "Fostering Respect (interacts with) Gender Identity",
+        "interaction" : "interacts with",
+        "weight" : 1,
+        "SUID" : 197724,
+        "BEND_MAP_ID" : 197724,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197525",
+        "source" : "197511",
+        "target" : "197523",
+        "EdgeBetweenness" : 29.066666666666663,
+        "shared_name" : "Accesibility Standards Regulations (interacts with) Accommodation and Disabilties",
+        "shared_interaction" : "interacts with",
+        "name" : "Accesibility Standards Regulations (interacts with) Accommodation and Disabilties",
+        "interaction" : "interacts with",
+        "weight" : 1,
+        "SUID" : 197525,
+        "BEND_MAP_ID" : 197525,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197520",
+        "source" : "197511",
+        "target" : "197518",
+        "EdgeBetweenness" : 19.666666666666664,
+        "shared_name" : "Accesibility Standards Regulations (interacts with) Accessibility for People with Disabilities",
+        "shared_interaction" : "interacts with",
+        "name" : "Accesibility Standards Regulations (interacts with) Accessibility for People with Disabilities",
+        "interaction" : "interacts with",
+        "weight" : 1,
+        "SUID" : 197520,
+        "BEND_MAP_ID" : 197520,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197515",
+        "source" : "197511",
+        "target" : "197513",
+        "EdgeBetweenness" : 99.40000000000002,
+        "shared_name" : "Accesibility Standards Regulations (interacts with) Fostering Respect",
+        "shared_interaction" : "interacts with",
+        "name" : "Accesibility Standards Regulations (interacts with) Fostering Respect",
+        "interaction" : "interacts with",
+        "weight" : 1,
+        "SUID" : 197515,
+        "BEND_MAP_ID" : 197515,
         "selected" : false
       },
       "selected" : false
