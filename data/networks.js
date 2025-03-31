@@ -34,8 +34,8 @@ var networks = {"Policy_Network_v1_edgelist.csv": {
         "NeighborhoodConnectivity" : 6.6
       },
       "position" : {
-        "x" : -297.43449572606437,
-        "y" : -176.33233743727772
+        "x" : -425.72543848786154,
+        "y" : 185.4088223901199
       },
       "selected" : false
     }, {
@@ -62,8 +62,8 @@ var networks = {"Policy_Network_v1_edgelist.csv": {
         "NeighborhoodConnectivity" : 11.0
       },
       "position" : {
-        "x" : 109.17346020655282,
-        "y" : -68.3814554792699
+        "x" : -1180.887022099283,
+        "y" : -83.94183305300248
       },
       "selected" : false
     }, {
@@ -90,8 +90,8 @@ var networks = {"Policy_Network_v1_edgelist.csv": {
         "NeighborhoodConnectivity" : 11.0
       },
       "position" : {
-        "x" : -372.15052966161124,
-        "y" : -23.673401890402715
+        "x" : -1067.334329691861,
+        "y" : -125.60572527469776
       },
       "selected" : false
     }, {
@@ -118,8 +118,8 @@ var networks = {"Policy_Network_v1_edgelist.csv": {
         "NeighborhoodConnectivity" : 11.0
       },
       "position" : {
-        "x" : 37.52735730127938,
-        "y" : -306.66933542311756
+        "x" : -929.7142373610986,
+        "y" : 185.14035779159167
       },
       "selected" : false
     }, {
@@ -146,8 +146,8 @@ var networks = {"Policy_Network_v1_edgelist.csv": {
         "NeighborhoodConnectivity" : 11.0
       },
       "position" : {
-        "x" : -377.23744372411124,
-        "y" : -221.20045572341053
+        "x" : -1000.17437501323,
+        "y" : 68.49087877612328
       },
       "selected" : false
     }, {
@@ -174,8 +174,8 @@ var networks = {"Policy_Network_v1_edgelist.csv": {
         "NeighborhoodConnectivity" : 11.0
       },
       "position" : {
-        "x" : 123.47868176417,
-        "y" : -158.7630472761449
+        "x" : -986.2544112955366,
+        "y" : -179.09647052102082
       },
       "selected" : false
     }, {
@@ -202,8 +202,8 @@ var networks = {"Policy_Network_v1_edgelist.csv": {
         "NeighborhoodConnectivity" : 5.0
       },
       "position" : {
-        "x" : -177.3105562119042,
-        "y" : 328.86791891037853
+        "x" : 43.938209267682396,
+        "y" : -196.8900448211498
       },
       "selected" : false
     }, {
@@ -230,8 +230,8 @@ var networks = {"Policy_Network_v1_edgelist.csv": {
         "NeighborhoodConnectivity" : 5.0
       },
       "position" : {
-        "x" : -559.0747545151269,
-        "y" : -175.17913919509022
+        "x" : -270.14975418910035,
+        "y" : 102.78391326435667
       },
       "selected" : false
     }, {
@@ -258,8 +258,8 @@ var networks = {"Policy_Network_v1_edgelist.csv": {
         "NeighborhoodConnectivity" : 10.0
       },
       "position" : {
-        "x" : -348.78639391942374,
-        "y" : 136.90136617600353
+        "x" : -746.0766509778332,
+        "y" : -599.6319000881485
       },
       "selected" : false
     }, {
@@ -286,8 +286,8 @@ var networks = {"Policy_Network_v1_edgelist.csv": {
         "NeighborhoodConnectivity" : 6.0
       },
       "position" : {
-        "x" : -33.562482634023354,
-        "y" : -123.45716959059803
+        "x" : -418.64032920038153,
+        "y" : -194.01320612883137
       },
       "selected" : false
     }, {
@@ -314,8 +314,8 @@ var networks = {"Policy_Network_v1_edgelist.csv": {
         "NeighborhoodConnectivity" : 5.25
       },
       "position" : {
-        "x" : 22.69507428125985,
-        "y" : 82.65823263108166
+        "x" : -198.69782334880438,
+        "y" : -494.63419268553844
       },
       "selected" : false
     }, {
@@ -342,8 +342,8 @@ var networks = {"Policy_Network_v1_edgelist.csv": {
         "NeighborhoodConnectivity" : 5.333333333333333
       },
       "position" : {
-        "x" : -222.58114794774406,
-        "y" : -226.59119897902576
+        "x" : -571.8393179741106,
+        "y" : -582.6940430166869
       },
       "selected" : false
     }, {
@@ -370,8 +370,8 @@ var networks = {"Policy_Network_v1_edgelist.csv": {
         "NeighborhoodConnectivity" : 3.0
       },
       "position" : {
-        "x" : -31.892099180654213,
-        "y" : 511.9124135392848
+        "x" : 46.29915350473311,
+        "y" : -8.005964717944153
       },
       "selected" : false
     }, {
@@ -398,8 +398,8 @@ var networks = {"Policy_Network_v1_edgelist.csv": {
         "NeighborhoodConnectivity" : 3.6666666666666665
       },
       "position" : {
-        "x" : -69.19838503880851,
-        "y" : 308.6207875627223
+        "x" : -136.9110324520734,
+        "y" : -49.87914448721858
       },
       "selected" : false
     }, {
@@ -426,8 +426,8 @@ var networks = {"Policy_Network_v1_edgelist.csv": {
         "NeighborhoodConnectivity" : 5.0
       },
       "position" : {
-        "x" : -155.0763719467675,
-        "y" : -305.08889585555164
+        "x" : -30.776952390850056,
+        "y" : 63.03461114721722
       },
       "selected" : false
     }, {
@@ -454,8 +454,8 @@ var networks = {"Policy_Network_v1_edgelist.csv": {
         "NeighborhoodConnectivity" : 4.0
       },
       "position" : {
-        "x" : 189.97010632471688,
-        "y" : 302.4531850236598
+        "x" : -379.06871679326287,
+        "y" : -650.5566120656586
       },
       "selected" : false
     }, {
@@ -482,8 +482,8 @@ var networks = {"Policy_Network_v1_edgelist.csv": {
         "NeighborhoodConnectivity" : 5.75
       },
       "position" : {
-        "x" : -26.1597230820214,
-        "y" : -331.9714975935277
+        "x" : -156.34558714884042,
+        "y" : -439.19706986416713
       },
       "selected" : false
     }, {
@@ -510,8 +510,8 @@ var networks = {"Policy_Network_v1_edgelist.csv": {
         "NeighborhoodConnectivity" : 5.25
       },
       "position" : {
-        "x" : -29.96981600804679,
-        "y" : 96.67288106858166
+        "x" : -412.1533043600357,
+        "y" : -516.0530006480985
       },
       "selected" : false
     }, {
@@ -538,8 +538,8 @@ var networks = {"Policy_Network_v1_edgelist.csv": {
         "NeighborhoodConnectivity" : 4.0
       },
       "position" : {
-        "x" : 247.76429577784188,
-        "y" : -272.1263285261449
+        "x" : -179.5295340551529,
+        "y" : -648.3331902492209
       },
       "selected" : false
     }, {
@@ -566,8 +566,8 @@ var networks = {"Policy_Network_v1_edgelist.csv": {
         "NeighborhoodConnectivity" : 3.0
       },
       "position" : {
-        "x" : -529.782304563955,
-        "y" : -62.103882847433965
+        "x" : -729.4093128794775,
+        "y" : -668.5071789196518
       },
       "selected" : false
     }, {
@@ -594,8 +594,8 @@ var networks = {"Policy_Network_v1_edgelist.csv": {
         "NeighborhoodConnectivity" : 7.333333333333333
       },
       "position" : {
-        "x" : -316.91530016942374,
-        "y" : -100.38113504469959
+        "x" : -661.073040956122,
+        "y" : -564.2406666634779
       },
       "selected" : false
     }, {
@@ -618,14 +618,14 @@ var networks = {"Policy_Network_v1_edgelist.csv": {
         "IsSingleNode" : false,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 3.3404255319148937,
-        "selected" : false,
+        "selected" : true,
         "NeighborhoodConnectivity" : 4.0
       },
       "position" : {
-        "x" : 56.56580944971688,
-        "y" : 241.71179098069103
+        "x" : -105.00954309765075,
+        "y" : -214.6680397129967
       },
-      "selected" : false
+      "selected" : true
     }, {
       "data" : {
         "id" : "197632",
@@ -650,8 +650,8 @@ var networks = {"Policy_Network_v1_edgelist.csv": {
         "NeighborhoodConnectivity" : 7.25
       },
       "position" : {
-        "x" : -319.89128283543937,
-        "y" : -254.83221918166248
+        "x" : -132.284192401974,
+        "y" : -364.17392403907434
       },
       "selected" : false
     }, {
@@ -678,8 +678,8 @@ var networks = {"Policy_Network_v1_edgelist.csv": {
         "NeighborhoodConnectivity" : 2.8181818181818183
       },
       "position" : {
-        "x" : -147.03852252049796,
-        "y" : -164.62114816725818
+        "x" : -816.0127934525954,
+        "y" : 27.813187925625243
       },
       "selected" : false
     }, {
@@ -706,8 +706,8 @@ var networks = {"Policy_Network_v1_edgelist.csv": {
         "NeighborhoodConnectivity" : 5.666666666666667
       },
       "position" : {
-        "x" : 12.012991151377037,
-        "y" : -39.94453531325428
+        "x" : -110.1600734077947,
+        "y" : -281.4444763622887
       },
       "selected" : false
     }, {
@@ -734,8 +734,8 @@ var networks = {"Policy_Network_v1_edgelist.csv": {
         "NeighborhoodConnectivity" : 2.3333333333333335
       },
       "position" : {
-        "x" : -220.36146716161124,
-        "y" : -396.53318124831287
+        "x" : -607.5115011342568,
+        "y" : -704.9234735710488
       },
       "selected" : false
     }, {
@@ -762,8 +762,8 @@ var networks = {"Policy_Network_v1_edgelist.csv": {
         "NeighborhoodConnectivity" : 2.5
       },
       "position" : {
-        "x" : 5.728765687509849,
-        "y" : -494.8935862165746
+        "x" : -519.1522871748602,
+        "y" : -752.1773932286305
       },
       "selected" : false
     }, {
@@ -790,8 +790,8 @@ var networks = {"Policy_Network_v1_edgelist.csv": {
         "NeighborhoodConnectivity" : 2.5
       },
       "position" : {
-        "x" : -454.9008348373925,
-        "y" : -476.6985636335668
+        "x" : -709.1252498629619,
+        "y" : -734.6818431823485
       },
       "selected" : false
     }, {
@@ -818,8 +818,8 @@ var networks = {"Policy_Network_v1_edgelist.csv": {
         "NeighborhoodConnectivity" : 8.666666666666666
       },
       "position" : {
-        "x" : -222.2828691391503,
-        "y" : 83.50298971115978
+        "x" : -843.0332520162192,
+        "y" : -98.87793122256699
       },
       "selected" : false
     }, {
@@ -846,8 +846,8 @@ var networks = {"Policy_Network_v1_edgelist.csv": {
         "NeighborhoodConnectivity" : 4.5
       },
       "position" : {
-        "x" : -319.85821703954093,
-        "y" : 331.97045797287853
+        "x" : -315.65167289072997,
+        "y" : -99.53012435727578
       },
       "selected" : false
     }, {
@@ -874,8 +874,8 @@ var networks = {"Policy_Network_v1_edgelist.csv": {
         "NeighborhoodConnectivity" : 4.8
       },
       "position" : {
-        "x" : -85.43439666314475,
-        "y" : 132.74365133225353
+        "x" : -353.1321200847742,
+        "y" : -338.91962518949003
       },
       "selected" : false
     }, {
@@ -902,8 +902,8 @@ var networks = {"Policy_Network_v1_edgelist.csv": {
         "NeighborhoodConnectivity" : 5.0
       },
       "position" : {
-        "x" : -425.88310412450187,
-        "y" : 73.53427022873791
+        "x" : -684.129994786781,
+        "y" : -361.5239791202621
       },
       "selected" : false
     }, {
@@ -930,8 +930,8 @@ var networks = {"Policy_Network_v1_edgelist.csv": {
         "NeighborhoodConnectivity" : 8.0
       },
       "position" : {
-        "x" : 17.172270021005943,
-        "y" : -226.82043558180897
+        "x" : -1074.57287847501,
+        "y" : -532.6838453593518
       },
       "selected" : false
     }, {
@@ -958,8 +958,8 @@ var networks = {"Policy_Network_v1_edgelist.csv": {
         "NeighborhoodConnectivity" : 8.0
       },
       "position" : {
-        "x" : -268.1807878403222,
-        "y" : 35.47354024826916
+        "x" : -1028.2519725611783,
+        "y" : -590.6778550218296
       },
       "selected" : false
     }, {
@@ -986,8 +986,8 @@ var networks = {"Policy_Network_v1_edgelist.csv": {
         "NeighborhoodConnectivity" : 8.0
       },
       "position" : {
-        "x" : 169.98481579737313,
-        "y" : -6.872559605246465
+        "x" : -950.8007847138797,
+        "y" : -565.8011202514899
       },
       "selected" : false
     }, {
@@ -1014,8 +1014,8 @@ var networks = {"Policy_Network_v1_edgelist.csv": {
         "NeighborhoodConnectivity" : 8.0
       },
       "position" : {
-        "x" : 131.88880749659188,
-        "y" : 85.94589132248791
+        "x" : -886.8301891348528,
+        "y" : -563.7072664504085
       },
       "selected" : false
     }, {
@@ -1042,8 +1042,8 @@ var networks = {"Policy_Network_v1_edgelist.csv": {
         "NeighborhoodConnectivity" : 3.909090909090909
       },
       "position" : {
-        "x" : -129.79163149876945,
-        "y" : -77.74920755446522
+        "x" : -1056.5695773871412,
+        "y" : -345.9736917876435
       },
       "selected" : false
     }, {
@@ -1070,8 +1070,8 @@ var networks = {"Policy_Network_v1_edgelist.csv": {
         "NeighborhoodConnectivity" : 4.25
       },
       "position" : {
-        "x" : 60.60468884424813,
-        "y" : -167.8958826643285
+        "x" : -249.60466925406945,
+        "y" : -567.6266272341891
       },
       "selected" : false
     }, {
@@ -1098,8 +1098,8 @@ var networks = {"Policy_Network_v1_edgelist.csv": {
         "NeighborhoodConnectivity" : 5.0
       },
       "position" : {
-        "x" : -133.5122507004296,
-        "y" : 119.01110738694103
+        "x" : -117.93825374197331,
+        "y" : -138.24513625024701
       },
       "selected" : false
     }, {
@@ -1126,8 +1126,8 @@ var networks = {"Policy_Network_v1_edgelist.csv": {
         "NeighborhoodConnectivity" : 4.25
       },
       "position" : {
-        "x" : -61.50631312413566,
-        "y" : -28.65615945876209
+        "x" : -939.6939273880853,
+        "y" : -490.875269783588
       },
       "selected" : false
     }, {
@@ -1154,8 +1154,8 @@ var networks = {"Policy_Network_v1_edgelist.csv": {
         "NeighborhoodConnectivity" : 10.0
       },
       "position" : {
-        "x" : -107.47373370213859,
-        "y" : -228.3867617231664
+        "x" : -869.1060962549673,
+        "y" : -630.1704123240925
       },
       "selected" : false
     }, {
@@ -1182,8 +1182,8 @@ var networks = {"Policy_Network_v1_edgelist.csv": {
         "NeighborhoodConnectivity" : 4.666666666666667
       },
       "position" : {
-        "x" : -354.42213610692374,
-        "y" : -368.47997385085193
+        "x" : -607.7292709131143,
+        "y" : 248.9627902355569
       },
       "selected" : false
     }, {
@@ -1210,8 +1210,8 @@ var networks = {"Policy_Network_v1_edgelist.csv": {
         "NeighborhoodConnectivity" : 4.0
       },
       "position" : {
-        "x" : -212.63714770360343,
-        "y" : -89.37728982985584
+        "x" : -212.33534624183085,
+        "y" : 16.709918860186008
       },
       "selected" : false
     }, {
@@ -1238,8 +1238,8 @@ var networks = {"Policy_Network_v1_edgelist.csv": {
         "NeighborhoodConnectivity" : 6.0
       },
       "position" : {
-        "x" : -248.49620226903312,
-        "y" : -324.3368807417211
+        "x" : -777.1909830879886,
+        "y" : 143.40871858413448
       },
       "selected" : false
     }, {
@@ -1266,8 +1266,8 @@ var networks = {"Policy_Network_v1_edgelist.csv": {
         "NeighborhoodConnectivity" : 4.5
       },
       "position" : {
-        "x" : -578.2483079819237,
-        "y" : 78.10623067795666
+        "x" : -449.08280202125025,
+        "y" : -694.013295664743
       },
       "selected" : false
     }, {
@@ -1294,8 +1294,8 @@ var networks = {"Policy_Network_v1_edgelist.csv": {
         "NeighborhoodConnectivity" : 4.666666666666667
       },
       "position" : {
-        "x" : -419.7299363998925,
-        "y" : -123.30067544997303
+        "x" : -699.5510352214478,
+        "y" : -187.51048269258172
       },
       "selected" : false
     }, {
@@ -1322,8 +1322,8 @@ var networks = {"Policy_Network_v1_edgelist.csv": {
         "NeighborhoodConnectivity" : 3.9
       },
       "position" : {
-        "x" : -211.9170015244042,
-        "y" : -36.850403843527715
+        "x" : -527.1545400591422,
+        "y" : -288.0763402146695
       },
       "selected" : false
     }, {
@@ -1350,8 +1350,8 @@ var networks = {"Policy_Network_v1_edgelist.csv": {
         "NeighborhoodConnectivity" : 6.0
       },
       "position" : {
-        "x" : -246.18391589208,
-        "y" : 190.08734029709728
+        "x" : -484.5146815777989,
+        "y" : -418.98104698679526
       },
       "selected" : false
     } ],
